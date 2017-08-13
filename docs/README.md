@@ -1,5 +1,7 @@
 # RACF Discord Documentation
 
-> An awesome project.
+Welcome to the RACF Discord server!
 
-Bot commands for members and leaders.
+It can be overwhelming to join a new server. This will guide you through how our server is setup and explain some useful commands you can run.
+
+- [Quick start](members.md)
