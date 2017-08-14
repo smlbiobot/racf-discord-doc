@@ -7,3 +7,4 @@ Leaders require the **Bot Commander** role to use most of these commands.
 - [New Users](leader/new-users.md) How to greet new users in #welcome
 - [Trophies](leader/trophies.md) How to set trophies
 - [Miscellaneous](leader/misc.md) How to kick / mention users
+- [Scenarios](leader/scenarios.md)

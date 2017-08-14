@@ -22,6 +22,7 @@
   - [New Users](leader/new-users.md)
   - [Trophies](leader/trophies.md)
   - [Miscellaneous](leader/misc.md)
+  - [Scenarios](leader/scenarios.md)
 
 - Moderators
   - [Overview](mods.md)
