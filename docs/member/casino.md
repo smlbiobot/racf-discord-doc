@@ -13,8 +13,6 @@ Commands | Functionality
 `!bank balance` <br />`!bb` | Your balance.
 `!leaderboard` <br />`!lb`| Show the Leaderboard.
 
-!casino exchange credits amount:: Credits to Chips
-
 
 ## Casino chips
 
