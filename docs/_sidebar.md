@@ -13,3 +13,9 @@
 
 - Leaders
   - [Overview](leaders.md)
+
+- Moderators
+  - [Overview](mods.md)
+
+- Administrators
+  - [Overview](admins.md)
