@@ -16,7 +16,7 @@ This gives a summary of what is expected from members with different roles in th
   * Let them know about the 50/50 kicking policy.
 * Not allowed to kick 50/50.
 
-## High elders
+## High Elders
 
 * All the duties of elders.
 * The role is an acknowledgement of member contribution approaching that provided by those in leadership, despite there being no in-game need for an actual promotion to Co-Leader.
