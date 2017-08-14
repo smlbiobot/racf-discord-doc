@@ -17,6 +17,11 @@
 
 - Leaders
   - [Overview](leaders.md)
+  - [Role Management](leader/manage-roles.md)
+  - [Member Management](leader/manage-members.md)
+  - [New Users](leader/new-users.md)
+  - [Trophies](leader/trophies.md)
+  - [Miscellaneous](leader/misc.md)
 
 - Moderators
   - [Overview](mods.md)
