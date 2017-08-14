@@ -2,6 +2,8 @@
   - [Welcome](README.md)
   - [Rules](racf/rules.md)
   - [Roles](racf/roles.md)
+  - [FAQ](racf/faq.md)
+  - [Alpha eSports FAQ](racf/esports-faq.md)
 
 - Members
   - [Overview](members.md)
