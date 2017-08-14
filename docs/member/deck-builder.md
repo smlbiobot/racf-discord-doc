@@ -2,7 +2,7 @@
 
 The !deck command helps you organize your Clash Royale decks.
 
-# Displaying a deck
+## Displaying a deck
 Create an image of the deck with the 8 cards followed by a name surrounded in quotes. If no name is entered, the deck will be named simply as *Deck*.
 
 `!deck get 3M knight log pump miner ig is skeletons "3M Cycle"`
@@ -63,7 +63,7 @@ Search results are paginated as lists of 3. To continue to see results, type _y_
 
 ![Deck cards](https://raw.githubusercontent.com/smlbiobot/SML-Cogs/master/wiki/img/deck/deck-cards.png)
 
-## Full help with example
+## Help
 
 You can also use `!deck` without any subcommand to see the built-in list of acceptable subcommands.
 

@@ -17,48 +17,9 @@ Discord servers are broken down into channels with different topics. As a member
 
 ## Bot Commands
 
-A number of bot commands were written specifically for the RACF Discord server.
-
-### Change clan (!changeclan)
-
-Used when you change from one RACF clan to another. Syntax:
-
-`!changeclan Alpha`
-
-`!changeclan Delta`
-
-The *eSports* role require leader approval and as such is not supported by this command. If you got accepted into Alpha eSports, please contact one of the leaders (Slayer / Xhadian / SaintBelekin) to update your roles.
-
-### Toggle role (!togglerole)
-
-A number of roles are self-assignable / self-removable by members. Syntax:
-
-`!togglerole Heist`
-
-`!togglerole Practice`
-
-* **Heist. **Used to play the game !heist in #casino. Mentionable. (Default: disabled)
-* **Practice. **Used for weekly practice. Self-assign in order to see the #practice channel as well as notifications and info for practice sessions. (Default: enabled)
-* **Tourney.** Used for tournament notification. Self-assign in order to get notifications for tournaments. Mention the role to alert others with tournament information, e.g. `@Tourney Name: Awesome Tournament / Password: AwesomePass / 10k gem 1000-player x2000 cards` (Default: enabled)
-* **Recruit.** Self-assign to see recruiting information about Alpha eSports. (Default: disabled)
-
-
-### Pay (!pay)
-
-Transfer credits to one or more people. Divide credits equally if multiple users are specified. Since credits can only be integers, there will be some rounding errors.
-
-`!pay 50 SML`
-
-`!pay 100 SML 6John Meridian`
-
-### Rules + Roles (!racf)
-
-This displays links to the RACF rules, roles, and discord invite link.
-
-### Farmers (!farmers)
-
-This fetches the Farmers data from Nuclino and display in the Discord chat as a table. A newer version will store data as JSON on the server, but this is a work-around in the meanwhile.
-
-Type `!farmers` to show the latest farmers.
-
-Type `!farmers 2` to show the farmers on Week 2 since we started recording data.
+- [Red commands](red-commands.md). AlphaBot is based in Red, an open-source Discord bot. Read this section to familiarize yourself with the basic commands you can run.
+- [Member commands](member-commands.md). There is a huge collection of commands written specifically for the RACF. Check out this section for an overview, then head over to:
+  - [Clash Royale: Deck Builder](deck-builder.md)
+  - [Clash Royale: Leaderboard](crdata.md)
+  - [Casino](casino.md)
+  - [Misc commands](misc-commands.md)
