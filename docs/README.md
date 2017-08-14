@@ -5,3 +5,7 @@
 It can be overwhelming to join a new server. This will guide you through how our server is setup and explain some useful commands you can run.
 
 - [Quick start](members.md)
+
+Please use this invite link to invite other people to the server:
+
+- [http://discord.gg/racf](http://discord.gg/racf)
