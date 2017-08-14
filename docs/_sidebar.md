@@ -4,7 +4,7 @@
 - Members
   - [Overview](members.md)
   - [Basic Commands](member/red-commands.md)
-  - [RACF day-to-day](member/member-commands.md)
+  - [RACF day-to-day](member/racf.md)
   - [CR: Deck Builder](member/deck-builder.md)
   - [CR: Leaderboard](member/crdata.md)
   - [Discordgram](member/discordgram.md)
