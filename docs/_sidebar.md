@@ -20,12 +20,17 @@
   - [Role Management](leader/manage-roles.md)
   - [Member Management](leader/manage-members.md)
   - [New Users](leader/new-users.md)
+  - [Audit](leader/audit.md)
+  - [Clan API](leader/crclan.md)
   - [Trophies](leader/trophies.md)
   - [Miscellaneous](leader/misc.md)
   - [Scenarios](leader/scenarios.md)
 
 - Moderators
   - [Overview](mods.md)
+  - [Cleanup Messages](mod/cleanup.md)
+  - [Custom Commands](mod/custom-com.md)
+  - [Alias](mod/alias.md)
 
 - Administrators
   - [Overview](admins.md)
