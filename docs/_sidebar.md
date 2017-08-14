@@ -1,5 +1,7 @@
 - RACF
   - [Welcome](README.md)
+  - [Rules](racf/rules.md)
+  - [Roles](racf/roles.md)
 
 - Members
   - [Overview](members.md)
