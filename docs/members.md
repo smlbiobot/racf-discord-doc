@@ -19,6 +19,7 @@ Discord servers are broken down into channels with different topics. As a member
 
 - [Red commands](member/red-commands.md). AlphaBot is based in Red, an open-source Discord bot. Read this section to familiarize yourself with the basic commands you can run.
 - [RACF commands](member/racf.md). There is a huge collection of commands written specifically for the RACF. Check out this section for an overview, then head over to:
+  - [Feedback](member/feedback.md)
   - [Clash Royale: Deck Builder](member/deck-builder.md)
   - [Clash Royale: Leaderboard](member/crdata.md)
   - [Casino](member/casino.md)

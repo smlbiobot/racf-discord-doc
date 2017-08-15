@@ -9,6 +9,7 @@
   - [Overview](members.md)
   - [Basic Commands](member/red-commands.md)
   - [RACF day-to-day](member/racf.md)
+  - [Feedback](member/feedback.md)
   - [CR: Deck Builder](member/deck-builder.md)
   - [CR: Leaderboard](member/crdata.md)
   - [Discordgram](member/discordgram.md)
