@@ -6,6 +6,10 @@ It can be overwhelming to join a new server. This will guide you through how our
 
 - [Quick start](members.md)
 
+If you are completely new to Discord, check out:
+
+- [Dicsord Guide](https://discordguide.us/guides.html#/desktop)
+
 Please use this invite link to invite other people to the server:
 
 - [http://discord.gg/racf](http://discord.gg/racf)

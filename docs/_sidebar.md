@@ -13,7 +13,6 @@
   - [CR: Leaderboard](member/crdata.md)
   - [Discordgram](member/discordgram.md)
   - [Casino](member/casino.md)
-  - [Misc](member/misc-commands.md)
 
 - Leaders
   - [Overview](leaders.md)
