@@ -21,7 +21,7 @@ A new user named MortarMauler signed onto Discord. As leader, you need to help t
 1. Leader: Which band are you in?
 2. MortarMauler: I am in Alpha
 3. Leader checks app and verify that MortarMauler is in fact in Alpha.
-4. Leader:`!bs UserName BS-Alpha` 
+4. Leader:`!bs UserName BS-Alpha`
 
 
 ### Interested in joining our trophy-pushing clans
@@ -49,21 +49,3 @@ A new user named MortarMauler signed onto Discord. As leader, you need to help t
 2. Leader: @MortarMauler Welcome! You can now chat in #visitors.
 
 ?> Alias `!visitor @MortarMauler` does all of the above.
-
-
-### Clash Royale
-
-`!v2m UserName Alpha` changes user from visitor to member while adding Alpha as their clan.
-
-
-## Recruit for eSports
-
-Add Recruit role to member and ask them to check the pinned messages in #esports-recruiting channel. If command is used in #welcome, also add the Visitor role to member.
-
-`!recruit UserName`
-
-## Visitor
-
-Shortcut to quickly assign people in welcome to a visitor and tell them to chat in #visitors channel.
-
-`!visitor Username`
