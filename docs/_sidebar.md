@@ -17,9 +17,9 @@
 
 - Leaders
   - [Overview](leaders.md)
+  - [Role Assingment in Welcome](leader/new-users.md)
   - [Role Management](leader/manage-roles.md)
   - [Member Management](leader/manage-members.md)
-  - [New Users](leader/new-users.md)
   - [Audit](leader/audit.md)
   - [Clan API](leader/crclan.md)
   - [Trophies](leader/trophies.md)
@@ -31,6 +31,3 @@
   - [Cleanup Messages](mod/cleanup.md)
   - [Custom Commands](mod/custom-com.md)
   - [Alias](mod/alias.md)
-
-- Administrators
-  - [Overview](admins.md)
