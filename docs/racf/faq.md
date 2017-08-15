@@ -37,7 +37,7 @@ Reddit Delta  |\#Q0YG8V|CR Members only
 
 ## How do I join your clans/bands?
 
-If you are interested in our trophy-pushing clans, just request in-app if you meet that clan’s trophy requirements. If you are interested in joining our eSports clan, please check out the \
+If you are interested in our trophy-pushing clans, just request in-app if you meet that clan’s trophy requirements. If you are interested in joining our eSports clan, please check out the
 [Alpha eSports FAQ](racf/esports-faq.md) to see how you might apply. You can also speak to us on our Discord server at http://discord.gg/racf
 
 ## What does trophy-pushing mean?
