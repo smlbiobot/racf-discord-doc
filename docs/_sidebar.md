@@ -17,7 +17,7 @@
 
 - Leaders
   - [Overview](leaders.md)
-  - [Role Assingment in Welcome](leader/new-users.md)
+  - [Role Assignment in Welcome](leader/new-users.md)
   - [Role Management](leader/manage-roles.md)
   - [Member Management](leader/manage-members.md)
   - [Audit](leader/audit.md)
