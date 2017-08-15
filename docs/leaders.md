@@ -2,9 +2,11 @@
 
 Leaders require the **Bot Commander** role to use most of these commands.
 
+- [Role Assignment in Welcome](leader/new-users.md)
 - [Role Management](leader/manage-roles.md)
 - [Member Management](leader/manage-members.md)
-- [New Users](leader/new-users.md) How to greet new users in #welcome
-- [Trophies](leader/trophies.md) How to set trophies
-- [Miscellaneous](leader/misc.md) How to kick / mention users
+- [Audit](leader/audit.md)
+- [Clan API](leader/crclan.md)
+- [Trophies](leader/trophies.md)
+- [Miscellaneous](leader/misc.md)
 - [Scenarios](leader/scenarios.md)
