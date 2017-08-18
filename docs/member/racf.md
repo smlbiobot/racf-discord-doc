@@ -9,7 +9,7 @@ Used when you change from one RACF clan to another. Syntax:
 
 `!changeclan Delta`
 
-The *eSports* role require leader approval and as such is not supported by this command. If you got accepted into Alpha eSports, please contact one of the leaders (Slayer / Xhadian / SaintBelekin) to update your roles.
+The *eSports* role require leader approval and as such is not supported by this command. If you got accepted into Alpha eSports, please contact one of the leaders to update your roles.
 
 ## Toggle role
 

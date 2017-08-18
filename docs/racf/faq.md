@@ -1,6 +1,6 @@
 # Frequently Asked Questions
 
-## Who is the Reddit Alpha Clan Family (RACF)?
+## What is the Reddit Alpha Clan Family (RACF)?
 
 The **Reddit Alpha Clan Family (RACF)** was established by Woody shortly after the Clash Royale soft launch. From humble beginnings, Reddit Alpha has grown into a Global Top 15 clan with hundreds of members throughout a thriving system of nine family clans in Clash Royale and four family bands in Brawl Stars.
 

@@ -6,7 +6,7 @@ Alpha eSports (AeS) is the newest eSports branch of the Reddit Alpha Clan Family
 
 ## What is the trophy requirement for Alpha eSports?
 
-Alpha eSports does not have a trophy requirement, but all new members must be reviewed either by the leadership of Alpha eSports: Slayer (Leader), SaintBelikin (Co-Leader), Darthjarjar (Co-Leader).
+Alpha eSports does not have a trophy requirement, but all new members must be reviewed either by the leadership of Alpha eSports: Fierylight (Co-Leader), SaintBelikin (Co-Leader), Darthjarjar (Co-Leader).
 
 ## What are the benefits for being in the clan?
 
@@ -46,7 +46,7 @@ June, 2017 Update: We are not planning to have another tryout for a while. You a
 + **Requests from Team 1 only.** When it is your turn to play, always allow the player from team 1 to request. If you are in Team 2, please do not request your matches.
 + **Put in your opponent’s name in your match request.** Ideally, you should put the name of your opponent in your request so it is clear who you are supposed to be playing against. You will know who that is because the admin will announce that in clan chat.
 + **No chatting in clan.** Please don’t use the clan chat for chatting / nagging admins to let you play your games first. Repeat offenders will be banned.
-+ **No card requests.** Please don’t use the clan to request cards. 
++ **No card requests.** Please don’t use the clan to request cards.
 
 ## How will players be selected from the tryouts?
 
