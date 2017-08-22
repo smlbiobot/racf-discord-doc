@@ -26,7 +26,6 @@
   - [Miscellaneous](leader/misc.md)
   - [Scenarios](leader/scenarios.md)
   - [AES Tryouts](leader/aes-tryout.md)
-  
 
 - Moderators
   - [Overview](mods.md)
