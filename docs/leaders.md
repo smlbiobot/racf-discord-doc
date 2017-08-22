@@ -10,6 +10,7 @@ Leaders require the **Bot Commander** role to use most of these commands.
 - [Trophies](leader/trophies.md)
 - [Miscellaneous](leader/misc.md)
 - [Scenarios](leader/scenarios.md)
+- [AES Tryouts: Workflow](leader/aes-tryout.md)
 
 ## Two-Factor Authentication
 
