@@ -5,15 +5,19 @@
   - [FAQ](racf/faq.md)
   - [Alpha eSports FAQ](racf/esports-faq.md)
 
+- Visitors
+  - [Overview](visitors.md)
+  - [Basic Commands](visitor/red-commands.md)
+  - [CR: Deck Builder](visitor/deck-builder.md)
+  - [CR: Leaderboard](visitor/crdata.md)
+  - [Casino](visitor/casino.md)
+
 - Members
   - [Overview](members.md)
-  - [Basic Commands](member/red-commands.md)
   - [RACF day-to-day](member/racf.md)
   - [Feedback](member/feedback.md)
-  - [CR: Deck Builder](member/deck-builder.md)
-  - [CR: Leaderboard](member/crdata.md)
   - [Discordgram](member/discordgram.md)
-  - [Casino](member/casino.md)
+
 
 - Leaders
   - [Overview](leaders.md)

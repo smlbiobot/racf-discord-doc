@@ -1,3 +1,3 @@
 # RACF Discord Documentation
 
-> An awesome project.
+http://racfdocs.smlbiobot.com
