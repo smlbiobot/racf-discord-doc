@@ -14,6 +14,7 @@
 
 - Members
   - [Overview](members.md)
+  - [Channels](member/channels.md)
   - [RACF day-to-day](member/racf.md)
   - [Feedback](member/feedback.md)
   - [Discordgram](member/discordgram.md)

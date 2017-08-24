@@ -10,3 +10,10 @@ As a visitor, you agree to follow the following rules:
 Failure to follow these rules will get you kicked from the server. Repeat offenders will be banned.
 
 If you would like to invite your friends to join this server, you may use this Discord invite: http://discord.gg/racf
+
+Topics | Description
+--- | ---
+[Bot Commands](visitor/red-commands.md) | Discord channels for members.
+[Clash Royale: Deck Builder](visitor/deck-builder.md) | CR Deck Builder.
+[Clash Royale: Leaderboard](visitor/crdata.md) | CR Leaderboard (real-time deck search).
+[Casino](visitor/casino.md) | Gambling with Discord credits.
