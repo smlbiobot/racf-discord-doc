@@ -36,3 +36,4 @@
   - [Alias](mod/alias.md)
   - [Cleanup](mod/cleanup.md)
   - [Custom Commands](mod/custom-com.md)
+  - [Filter](mod/filter.md)

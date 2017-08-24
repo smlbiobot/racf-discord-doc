@@ -12,7 +12,7 @@ blacklist | Bans user from using the bot
 [cleanup](mod/cleanup.md) | Deletes messages.
 [customcom](mod/custom-com.md) | Custom commands management.
 editrole | Edits roles settings
-filter | Adds/removes words from filter
+[filter](mod/filter.md) | Adds/removes words from filter
 ignore | Adds servers/channels to ignorelist
 kick | Kicks user.
 modset | Manages server administration settings.
