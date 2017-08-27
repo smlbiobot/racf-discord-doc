@@ -2,6 +2,8 @@
 
 We wrote this guide to help new members on how to use Discord. This will guide you through how our server is setup and explain some useful commands you can run.
 
+As a member, you are pre-assigned the roles **Member**, **Practice**, **Tourney** and your clan role. There are additional roles that you may self-assign to unlock more channels. Please see [Toggle role](member/racf.md?id=toggle-role) for more details.
+
 ## Important Information
 
 Topics | Description
