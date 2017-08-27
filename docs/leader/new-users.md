@@ -1,6 +1,6 @@
 # Role Assignment in Welcome
 
-## Greeting new users
+## Scenarios
 
 A new user named MortarMauler signed onto Discord. As leader, you need to help them out after they have mentioned who they are.
 
@@ -49,3 +49,27 @@ A new user named MortarMauler signed onto Discord. As leader, you need to help t
 2. Leader: @MortarMauler Welcome! You can now chat in #visitors.
 
 ?> Alias `!visitor @MortarMauler` does all of the above.
+
+## Auto-assignment with player tag
+
+If the user provides his player tag for you, you can use `!racf verify` to automatically assign roles:
+
+### Clash Royale
+
+`!racf verify @SML C0G20PR2`
+
+- Register player tag with `!crprofile` and `!crclan`.
+- Look up player profile and retrieve clan information.
+- Verify that the clan belong to a list of clans which allow role assignment (e.g. A-H, Mini, Mini2 but not eSports).
+- Assign clan roles.
+- Verify that the clan allow Membership assignment.
+- Assign standard member roles: Member, Tourney, Practice.
+- Change nickname to user IGN.
+
+?> Alias `!r v` (note space between r and v)
+
+### Brawl Stars
+
+`!racf bsverify @SML 889QC9`
+
+?> Alias `!r bv`
