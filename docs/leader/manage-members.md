@@ -19,7 +19,7 @@ which lists all members who are part of the Alpha clan, who has the Competitive 
 
 Type `!help mm` if you need help on using all the options.
 
-## RACF: find people with the member tag but are otherwise not assigned to any clans:
+## Find people with the member tag but are otherwise not assigned to any clans:
 
 `!mmnoclan`
 
@@ -30,6 +30,14 @@ is an alias (shortcut) to:
 To quickly output a list of user mentions so you can contact everyone without a clan tag in a message:
 
 `!mmnoclan --output mentiononly`
+
+## Find people on the server without any role assignment:
+
+`!mmnorole`
+
+is an alias to
+
+`!mm --everyone -x member guest visitor bot`
 
 ## Additional options
 
