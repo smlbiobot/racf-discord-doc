@@ -14,7 +14,7 @@ Co-leaders and above have permissions to set the trophies requirement. e.g. `!tr
 
 By default, the trophy requirements take a number only. If you would like to set a PB, you can work around like this:
 
-`!trophies set Delta "4,300 PB"`
+`!trophies set Delta 4,300 PB`
 
 ## Brawl Stars
 
