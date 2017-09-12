@@ -26,6 +26,7 @@ A number of roles are self-assignable / self-removable by members. Syntax:
 * **Battle-Bay.** Show the #battle-bay channel. (Default: disabled)
 * **CoC.** Show the Clash of Clans channel. (Default: disabled)
 * **Brawl-Stars.** Show the Brawl Stars channel. (Default: disabled)
+* **PvZ.*** Show the Plants vs Zombies channel. (Default: disabled)
 
 
 ## Rules + Roles
