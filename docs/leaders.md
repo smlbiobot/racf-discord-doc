@@ -2,6 +2,8 @@
 
 Leaders require the **Bot Commander** role to use most of these commands.
 
+- [Overview](leaders.md)
+- [Kicking 50/50](leader/kick5050.md)
 - [Role Assignment in Welcome](leader/new-users.md)
 - [Role Management](leader/manage-roles.md)
 - [Member Management](leader/manage-members.md)
@@ -10,7 +12,7 @@ Leaders require the **Bot Commander** role to use most of these commands.
 - [Trophies](leader/trophies.md)
 - [Miscellaneous](leader/misc.md)
 - [Scenarios](leader/scenarios.md)
-- [AES Tryouts: Workflow](leader/aes-tryout.md)
+- [AES Tryouts](leader/aes-tryout.md)
 
 ## Two-Factor Authentication
 
