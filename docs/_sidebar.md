@@ -10,6 +10,7 @@
   - [Basic Commands](visitor/red-commands.md)
   - [CR: Deck Builder](visitor/deck-builder.md)
   - [CR: Leaderboard](visitor/crdata.md)
+  - [CR: Profile](visitor/crprofile.md)
   - [Casino](visitor/casino.md)
 
 - Members
