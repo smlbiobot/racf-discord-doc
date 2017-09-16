@@ -64,7 +64,7 @@ We kick the last person in the clan unless that member is the Leader (Clash Roya
 
 ## Why is RACF Hotel not in the RCS?
 
-RACF is one of the founding members of RCS, and we have decided to adopt the NATO alphabet to name our clans. RCS does not allow clans with the same name, so when we have expanded to H for Hotel, the RCS Hotel complained and forced us to remove RACF Hotel from the list of verified clans.
+RACF is one of the founding members of RCS (Reddit Clan System), and we have decided to adopt the NATO alphabet to name our clans. RCS does not allow clans with the same name, so when we have expanded to H for Hotel, the RCS Hotel complained and forced us to remove RACF Hotel from the list of verified clans.
 
 As such, some of our clans are not in the RCS even though most of our clans are. Alpha eSports, RACF Mini and RACF Mini 2 are not in the RCS because RCS requires clans to follow the `Reddit __` naming format.
 
