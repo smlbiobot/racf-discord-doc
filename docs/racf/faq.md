@@ -62,21 +62,15 @@ We kick 50/50 as soon as it happens. We do not give special exceptions to member
 
 We kick the last person in the clan unless that member is the Leader (Clash Royale clans), or Elders / Co-Leaders / Leader (Brawl Stars). If your trophies appear to be higher than the last non-kick-exempt member, it is possible that the second last person tilted more than you did between the time of kicking and when you checked the app.
 
-## Brawl Stars: why are the leaders at the bottom of the roster?
+## Why is RACF Hotel not in the RCS?
 
-As a well-established clan family in Clash Royale, the Reddit Alpha Clan Family (RACF) is primarily interested in building a top global clan (aka band) in Brawl Stars. To ensure the long-term success of such clan, we feel that strong leadership is required, and we have initiated our effort by placing our best players in CR to form the leadership for Reddit Alpha.
+RACF is one of the founding members of RCS, and we have decided to adopt the NATO alphabet to name our clans. RCS does not allow clans with the same name, so when we have expanded to H for Hotel, the RCS Hotel complained and forced us to remove RACF Hotel from the list of verified clans. As such, some of our clans are not in the RCS even though most of our clans are.
 
-We recognize that CR skills do not necessarily translate to BS skills, and that some of you are concerned that our leadership is currently at the bottom of the roster. In order to ensure the future success of the clan family though, we do feel that having trustworthy co-leaders is a must.
+List of RACF clans which are in the RCS:
+- Alpha, Bravo, Charlie, Delta, Echo, Foxtrot, Golf.
 
-The game is simply too new right now to consider promotions, but it is something that we will definitely be doing in the future. Thank you very much for your patience.
-
-## Can I join Reddit Delta in Brawl Stars if I get kicked from Charlie?
-
-You must be a member in our Clash Royale clans to join Reddit Delta in Brawl Stars. No exceptions.
-
-## Where can I download Brawl Stars on Android?
-
-Brawl Stars has not been released on Android.
+List of RACF clans which are not in the RCS:
+- Alpha eSports, Hotel, RACF Mini, RACF Mini 2.
 
 ## How do you become an elder?
 
@@ -86,13 +80,13 @@ If you are mature and active in the clan and Discord, we will promote you as an 
 
 We try to maintain 2-4 co-leaders in each clan. When we require more co-leaders in the clan, the leader will look at all the elders from the entire family and make selections. These will often be discussed among all the leaders before one is officially appointed. As with elders, we do not promote based on trophy levels / competitive performance. Maturity is the primary deciding factor.
 
-## What is our BM policy?
+## What is your BM (bad manners) policy?
 
 The RACF does not have a BM policy when playing against people in the wild, e.g. ladder, tournaments, challenges. You are also free to BM each other in friendly battles if both players are aware that they are friendly banters. Members who are offended by in-game emotes should mute all their matches. They can also choose not to play with people they don’t enjoy playing against. However, if a clan mate continues to BM you in clan chat after each battle and it bothers you, you should screenshot and report to your co-leader / leaders and we will try to talk to that member.
 
 ## What is a high elder?
 
-We grant a special role called *High Elder* on our Discord server. The role is an acknowledgement of member contribution approaching that provided by those in leadership, despite there being no in-game need for an actual promotion to Co-Leader. High Elders are granted access to the same discussion rooms as those in leadership, and are strong candidates for Co-Leader, but do not receive that role in-game until the Leader requires additional support. See also [Roles](https://app.nuclino.com/p/Roles-8rS71YrznEPfwYTuD8deER "Roles") for each role’s responsibilities.
+We grant a special role called *High Elder* on our Discord server. The role is an acknowledgement of member contribution approaching that provided by those in leadership, despite there being no in-game need for an actual promotion to Co-Leader. High Elders are granted access to the same discussion rooms as those in leadership, and are strong candidates for Co-Leader, but do not receive that role in-game until the Leader requires additional support. See also [Roles](/racf/roles.md) for each role’s responsibilities.
 
 ## What’s the relationship between RACF and RCS?
 
@@ -101,3 +95,21 @@ The Reddit Clan System (RCS) is the system which includes all Reddit clans. The 
 ## How can I be part of the competitive team?
 
 We usually make an announcement on Discord whenever we are assembling teams to represent RACF in upcoming tournaments. If there is a try-out,  you should obviously play in one so the team captains can evaluate your game plays. In others, we allow team captains to select their players. If you are new to the family and feel that you are not known among the captains, you can demonstrate your skills by finishing in top spots in 10k tournaments and/or get into the championship rounds for the RACF Tourney, which is held bi-monthly.
+
+## Brawl Stars
+
+### Why are the leaders at the bottom of the roster?
+
+As a well-established clan family in Clash Royale, the Reddit Alpha Clan Family (RACF) is primarily interested in building a top global clan (aka band) in Brawl Stars. To ensure the long-term success of such clan, we feel that strong leadership is required, and we have initiated our effort by placing our best players in CR to form the leadership for Reddit Alpha.
+
+We recognize that CR skills do not necessarily translate to BS skills, and that some of you are concerned that our leadership is currently at the bottom of the roster. In order to ensure the future success of the clan family though, we do feel that having trustworthy co-leaders is a must.
+
+The game is simply too new right now to consider promotions, but it is something that we will definitely be doing in the future. Thank you very much for your patience.
+
+### Can I join Reddit Delta (BS) if I get kicked from Charlie?
+
+You must be a member in our Clash Royale clans to join Reddit Delta in Brawl Stars. No exceptions.
+
+### Where can I download Brawl Stars on Android?
+
+Brawl Stars has not been released on Android.
