@@ -22,6 +22,7 @@ names | Show previous names/nicknames of a user
 reason | Lets you specify a reason for mod-log’s cases
 rename | Changes user’s nickname
 softban | Kicks the user, deleting 1 day worth of messages.
+[togglerole](mod/togglerole.md) | Toggle roles. Read how to set settings.
 unignore | Removes servers/channels from ignorelist
 unmute | Unmutes user in the channel/server
 whitelist | Users who will be able to use the bot
