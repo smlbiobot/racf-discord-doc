@@ -84,7 +84,7 @@ We try to maintain 2-4 co-leaders in each clan. When we require more co-leaders 
 
 ## What is your BM (bad manners) policy?
 
-The RACF does not have a BM policy when playing against people in the wild, e.g. ladder, tournaments, challenges. You are also free to BM each other in friendly battles if both players are aware that they are friendly banters. Members who are offended by in-game emotes should mute all their matches. They can also choose not to play with people they don’t enjoy playing against. However, if a clan mate continues to BM you in clan chat after each battle and it bothers you, you should screenshot and report to your co-leader / leaders and we will try to talk to that member.
+The RACF does not have any policy against BM'ing random people you meet in ladder, challenges or tourneys. We do ask that our members not BM each other unless it’s agreed upon beforehand in some way, though. We understand that there is a mute button but feel that there should be a basic level of respect among fellow RACF members. We also encourage anyone who is offended by emotes to make use of the in-game mute button. BM'ing in clan chat (i.e. being a dick to your clan mates) is a kickable offense. If any RACF member is found to be consistently BM'ing other RACF members then they may be subject to punishment of some sort.
 
 ## What is a high elder?
 
