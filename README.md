@@ -1,3 +1,3 @@
 # RACF Discord Documentation
 
-http://racfdocs.smlbiobot.com
+http://docs.redditalpha.com
