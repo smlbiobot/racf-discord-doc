@@ -3,7 +3,7 @@
 Included here are Clash Royale strategy guides previously posted on Reddit. These are also known as the _Optimal Placement_ series.
 
 Guide | Authors | Published
---- | --- | --- | ---
+--- | --- | --- 
 [Inferno Tower](strategy/inferno-tower.md) | Min | 2017-04-04
 [Mortar](strategy/mortar.md) | 6Dad, Streetlamp | 2017-04-06
 [Musketeer](strategy/musketeer.md) | 6Dad | 2017-04-08
