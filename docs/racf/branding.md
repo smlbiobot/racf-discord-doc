@@ -17,6 +17,8 @@ RACF Black | Hex | 000000
 
 Please do not edit, change, distort, recolor, or reconfigure the RACF logo.
 
+[Download logo pack (zip)](https://github.com/smlbiobot/racf-discord-doc/blob/master/docs/img/racf/logo-pack.zip?raw=true)
+
 ### Primary
 
 <img src="img/racf/racf-logo-bg-red.png" style="width:20%; height:auto;" />
