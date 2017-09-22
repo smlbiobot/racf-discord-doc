@@ -16,4 +16,5 @@ Topics | Description
 [Bot Commands](visitor/red-commands.md) | Discord channels for members.
 [Clash Royale: Deck Builder](visitor/deck-builder.md) | CR Deck Builder.
 [Clash Royale: Leaderboard](visitor/crdata.md) | CR Leaderboard (real-time deck search).
+[Clash Royale: Profile](visitor/crprofile.md) | CR Profile (real-time stats check).
 [Casino](visitor/casino.md) | Gambling with Discord credits.
