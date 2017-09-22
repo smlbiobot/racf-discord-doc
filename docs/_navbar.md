@@ -1,5 +1,6 @@
+- [Home](README.md)
+
 - RACF
-    - [Welcome](README.md)
     - [Rules](racf/rules.md)
     - [Roles](racf/roles.md)
     - [FAQ](racf/faq.md)
@@ -11,7 +12,7 @@
     - [Leaders](leaders.md)
     - [Moderators](mods.md)
 
-- strategy
+- Strategy
     - [Overview](strategy.md)
     - [Inferno Tower](strategy/inferno-tower.md)
     - [Mortar](strategy/mortar.md)
@@ -23,3 +24,7 @@
     - [Tornado: vs Ground Troops](strategy/tornado2.md)
     - [Elixir Collector](strategy/elixir-collector.md)
     - [Graveyard](strategy/graveyard.md)
+
+- Social
+    - [Discord](http://discord.gg/racf)
+    - [Twitter](http://twitter.com/RedditAlpha)
