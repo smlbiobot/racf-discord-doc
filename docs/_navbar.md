@@ -5,6 +5,7 @@
     - [Roles](racf/roles.md)
     - [FAQ](racf/faq.md)
     - [Alpha eSports FAQ](racf/esports-faq.md)
+    - [Branding](racf/branding.md)
 
 - Roles
     - [Visitors](visitors.md)
