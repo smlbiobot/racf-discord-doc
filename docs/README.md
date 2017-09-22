@@ -1,6 +1,6 @@
 # Welcome to the RACF Discord server!
 
-<img src="https://github.com/smlbiobot/racf-discord-doc/blob/master/docs/img/racf/racf-logo-bg-red.png?raw=true" width="200" height="200">
+<img src="https://raw.githubusercontent.com/smlbiobot/racf-discord-doc/master/docs/img/racf/racf-logo-bg-red.png" width="200" height="200">
 
 This guide explains how our server is set up and provide information on how to use many of our bot commands.
 
