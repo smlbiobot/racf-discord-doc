@@ -5,6 +5,7 @@
     - [Roles](racf/roles.md)
     - [FAQ](racf/faq.md)
     - [Alpha eSports FAQ](racf/esports-faq.md)
+    - [Alpha eSports Tryouts FAQ](racf/esports-tryout-faq.md)
     - [Branding](racf/branding.md)
 
 - Roles
