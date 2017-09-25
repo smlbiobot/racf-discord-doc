@@ -3,7 +3,7 @@
 Included here are Clash Royale strategy guides previously posted on Reddit. These are also known as the _Optimal Placement_ series.
 
 Guide | Authors | Published
---- | --- | --- 
+--- | --- | ---
 [Inferno Tower](strategy/inferno-tower.md) | Min | 2017-04-04
 [Mortar](strategy/mortar.md) | 6Dad, Streetlamp | 2017-04-06
 [Musketeer](strategy/musketeer.md) | 6Dad | 2017-04-08
@@ -14,3 +14,4 @@ Guide | Authors | Published
 [Tornado: vs Ground Troops](strategy/tornado2.md) | Tikre45, Min | 2017-06-01
 [Elixir Collector](strategy/elixir-collector.md) | Tikre45 | 2017-06-05
 [Graveyard](strategy/graveyard.md) | Grimear | 2017-06-07
+[Mortar](strategy/mortar-predator.md) | Predator | 2017-09-25

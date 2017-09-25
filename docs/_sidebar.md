@@ -57,3 +57,4 @@
     - [Tornado: vs Ground Troops](strategy/tornado2.md)
     - [Elixir Collector](strategy/elixir-collector.md)
     - [Graveyard](strategy/graveyard.md)
+    - [Mortar](strategy/mortar-predator.md)
