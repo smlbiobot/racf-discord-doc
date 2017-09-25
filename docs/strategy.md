@@ -14,4 +14,4 @@ Guide | Authors | Published
 [Tornado: vs Ground Troops](strategy/tornado2.md) | Tikre45, Min | 2017-06-01
 [Elixir Collector](strategy/elixir-collector.md) | Tikre45 | 2017-06-05
 [Graveyard](strategy/graveyard.md) | Grimear | 2017-06-07
-[Mortar](strategy/mortar-predator.md) | Predator | 2017-09-25
+[Mortar v2](strategy/mortar-predator.md) | Predator | 2017-09-25
