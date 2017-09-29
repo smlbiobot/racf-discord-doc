@@ -1,9 +1,11 @@
 - [Home](README.md)
+
 - RACF
     - [Rules](racf/rules.md)
     - [Roles](racf/roles.md)
     - [FAQ](racf/faq.md)
     - [Branding](racf/branding.md)
+
 - Visitors
     - [Overview](visitors.md)
     - [Basic Commands](visitor/red-commands.md)
@@ -11,12 +13,14 @@
     - [CR: Leaderboard](visitor/crdata.md)
     - [CR: Profile](visitor/crprofile.md)
     - [Casino](visitor/casino.md)
+
 - Members
     - [Overview](members.md)
     - [Channels](member/channels.md)
     - [RACF day-to-day](member/racf.md)
     - [Feedback](member/feedback.md)
     - [Discordgram](member/discordgram.md)
+
 - Leaders
     - [Overview](leaders.md)
     - [Kicking 50/50](leader/kick5050.md)
@@ -29,6 +33,7 @@
     - [Miscellaneous](leader/misc.md)
     - [Scenarios](leader/scenarios.md)
     - [AES Tryouts](leader/aes-tryout.md)
+
 - Moderators
     - [Overview](mods.md)
     - [Alias](mod/alias.md)
@@ -36,6 +41,7 @@
     - [Custom Commands](mod/custom-com.md)
     - [Filter](mod/filter.md)
     - [Quotes](mod/quotes.md)
+
 - Strategy Guides
     - [Overview](strategy.md)
     - [Inferno Tower](strategy/inferno-tower.md)
