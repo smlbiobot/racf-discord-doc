@@ -6,7 +6,7 @@ This guide explains how our server is set up and provide information on how to u
 
 If you are completely new to Discord, check out:
 
-- [Dicsord Guide](https://discordguide.us/guides.html#/desktop)
+- [Discord Guide](https://discordguide.us/guides.html#/desktop)
 
 Please use this invite link to invite other people to the server:
 
