@@ -18,7 +18,6 @@ kick | Kicks user.
 modset | Manages server administration settings.
 mute | Mutes user in the channel/server
 names | Show previous names/nicknames of a user
-[quotes](mod/quotes.md) | Quotes.
 reason | Lets you specify a reason for mod-log’s cases
 rename | Changes user’s nickname
 softban | Kicks the user, deleting 1 day worth of messages.
