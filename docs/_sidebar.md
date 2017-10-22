@@ -32,7 +32,8 @@
     - [Trophies](leader/trophies.md)
     - [Miscellaneous](leader/misc.md)
     - [Scenarios](leader/scenarios.md)
-    - [AES Tryouts](leader/aes-tryout.md)
+    - [Greetings](leader/greetings.md)
+    - [Quotes](mod/quotes.md)
 
 - Moderators
     - [Overview](mods.md)
@@ -40,8 +41,7 @@
     - [Cleanup](mod/cleanup.md)
     - [Custom Commands](mod/custom-com.md)
     - [Filter](mod/filter.md)
-    - [Quotes](mod/quotes.md)
-
+    
 - Strategy Guides
     - [Overview](strategy.md)
     - [Inferno Tower](strategy/inferno-tower.md)

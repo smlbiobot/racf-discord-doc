@@ -12,6 +12,7 @@ Leaders require the **Bot Commander** role to use most of these commands.
 - [Trophies](leader/trophies.md)
 - [Miscellaneous](leader/misc.md)
 - [Scenarios](leader/scenarios.md)
+- [Greetings](leader/greetings.md): Sample messages on greeting new users.
 - [Quotes](leader/quotes-tryout.md)
 
 ## Two-Factor Authentication
