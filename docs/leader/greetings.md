@@ -1,6 +1,6 @@
 # Greetings
 
-You should welcome members who join the family, tell them about our kicking policy and join our Discord server. You can type your own messages, but there are some samples which work well in the past:
+You should welcome members who join the family, tell them about our kicking policy and join our Discord server. You may find yourself typing similar messages frequently and you may wish to save these in your keyboard shortcut for easy access. Of course, you can also type them manually every time.
 
 ## Welcoming new users
 
