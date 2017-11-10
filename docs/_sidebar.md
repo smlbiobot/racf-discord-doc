@@ -33,7 +33,7 @@
     - [Miscellaneous](leader/misc.md)
     - [Scenarios](leader/scenarios.md)
     - [Greetings](leader/greetings.md)
-    - [Quotes](mod/quotes.md)
+    - [Quotes](leader/quotes.md)
 
 - Moderators
     - [Overview](mods.md)
@@ -41,7 +41,7 @@
     - [Cleanup](mod/cleanup.md)
     - [Custom Commands](mod/custom-com.md)
     - [Filter](mod/filter.md)
-    
+
 - Strategy Guides
     - [Overview](strategy.md)
     - [Inferno Tower](strategy/inferno-tower.md)
