@@ -6,9 +6,9 @@ A bit like custom commands, but stored on a subcommand level so as not to pollut
 
 Subcommand | Description | Permissions
 --- | --- | ---
-add	/ a | Adds a quote | MOD
-remove / rm	| Removes a quote | MOD
-edit / e | Edits a quote | MOD
+add	/ a | Adds a quote | Co-Leaader
+remove / rm	| Removes a quote | Co-Leaader
+edit / e | Edits a quote | Co-Leaader
 list / l | Shows a list of quotes | everyone
 
 `!quote` or `!q`
