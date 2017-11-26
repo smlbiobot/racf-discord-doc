@@ -24,7 +24,6 @@ Reddit Echo   |\#LGVV2CG|Feeder
 Reddit Foxtrot|\#QUYCYV8|Feeder        
 Reddit Golf   |\#GUYGVJY|Feeder        
 Reddit Hotel  |\#UGQ28YU|Feeder        
-Alpha eSports |\#R8PPJQG|eSports branch
 
 ### Brawl Stars Bands
 
