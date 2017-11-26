@@ -78,10 +78,6 @@ The RACF does not have any policy against BM'ing random people you meet in ladde
 
 We grant a special role called *High Elder* on our Discord server. The role is an acknowledgement of member contribution approaching that provided by those in leadership, despite there being no in-game need for an actual promotion to Co-Leader. High Elders are granted access to the same discussion rooms as those in leadership, and are strong candidates for Co-Leader, but do not receive that role in-game until the Leader requires additional support. See also [Roles](/racf/roles.md) for each role’s responsibilities.
 
-## What’s the relationship between RACF and RCS?
-
-The Reddit Clan System (RCS) is the system which includes all Reddit clans. The Reddit Alpha Clan Family (RACF) is one of the founding members of the RCS.
-
 ## How can I be part of the competitive team?
 
 We usually make an announcement on Discord whenever we are assembling teams to represent RACF in upcoming tournaments. If there is a try-out,  you should obviously play in one so the team captains can evaluate your game plays. In others, we allow team captains to select their players. If you are new to the family and feel that you are not known among the captains, you can demonstrate your skills by finishing in top spots in 10k tournaments and/or get into the championship rounds for the RACF Tourney, which is held bi-monthly.
