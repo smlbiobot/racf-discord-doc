@@ -62,18 +62,6 @@ We kick 50/50 as soon as it happens. We do not give special exceptions to member
 
 We kick the last person in the clan unless that member is the Leader (Clash Royale clans), or Elders / Co-Leaders / Leader (Brawl Stars). If your trophies appear to be higher than the last non-kick-exempt member, it is possible that the second last person tilted more than you did between the time of kicking and when you checked the app.
 
-## Why is RACF Hotel not in the RCS?
-
-RACF is one of the founding members of RCS (Reddit Clan System), and we have decided to adopt the NATO alphabet to name our clans. RCS does not allow clans with the same name, so when we have expanded to H for Hotel, the RCS Hotel complained and forced us to remove RACF Hotel from the list of verified clans.
-
-As such, some of our clans are not in the RCS even though most of our clans are. Alpha eSports, RACF Mini and RACF Mini 2 are not in the RCS because RCS requires clans to follow the `Reddit __` naming format.
-
-List of RACF clans which are in the RCS:
-- Alpha, Bravo, Charlie, Delta, Echo, Foxtrot, Golf.
-
-List of RACF clans which are not in the RCS:
-- Alpha eSports, Hotel, RACF Mini, RACF Mini 2.
-
 ## How do you become an elder?
 
 If you are mature and active in the clan and Discord, we will promote you as an elder after you have been with us for a little while.  Unlike many other CR clans, we do not use donation quota nor crown contribution as a deciding factor when making these decisions. There is currently no set timeframe for when one can become an elder. The decision is completely up to the leader / co-leaders of the clan.
