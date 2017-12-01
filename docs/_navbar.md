@@ -22,6 +22,7 @@
     - [Elixir Collector](strategy/elixir-collector.md)
     - [Graveyard](strategy/graveyard.md)
     - [Mortar v2](strategy/mortar-predator.md)
+    - [Elixir Collector’s Interaction with Spells](strategy/elixir-collector-upgrade.md)
 - Social
     - [Discord](http://discord.gg/racf)
     - [Twitter](http://twitter.com/RedditAlpha)

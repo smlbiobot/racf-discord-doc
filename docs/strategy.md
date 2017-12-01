@@ -1,6 +1,8 @@
 # Strategy Guides
 
-Included here are Clash Royale strategy guides previously posted on Reddit. These are also known as the _Optimal Placement_ series.
+Included here are Clash Royale strategy guides previously posted on Reddit.
+
+## Optimal Placement
 
 Guide | Authors | Published
 --- | --- | ---
@@ -15,3 +17,9 @@ Guide | Authors | Published
 [Elixir Collector](strategy/elixir-collector.md) | Tikre45 | 2017-06-05
 [Graveyard](strategy/graveyard.md) | Grimear | 2017-06-07
 [Mortar v2](strategy/mortar-predator.md) | Predator | 2017-09-25
+
+## Upgrades
+
+Guide | Authors | Published
+--- | --- | ---
+[Inferno Tower](strategy/elixir-collector-upgrade.md) | Schmanik | 2017-11-19
