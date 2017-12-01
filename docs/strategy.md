@@ -22,4 +22,4 @@ Guide | Authors | Published
 
 Guide | Authors | Published
 --- | --- | ---
-[Inferno Tower](strategy/elixir-collector-upgrade.md) | Schmanik | 2017-11-19
+[Elixir Collector’s Interaction with Spells](strategy/elixir-collector-upgrade.md) | Schmanik | 2017-11-19
