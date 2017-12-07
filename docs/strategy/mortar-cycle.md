@@ -42,7 +42,7 @@ EDIT: This is intended as a supplement to our previously posted guides on Reddit
 
 ## Decks
 
-| Name | Avg Elixir | Deck Link (copy to Clash Royale) | Notes
+| Name | Avg Elixir | Deck Link | Notes
 |---|---|---|---|
 | Standard | 2.9 | [Copy to Clash Royale](https://link.clashroyale.com/deck/en?deck=27000002;26000000;26000001;26000010;26000030;28000011;28000001;28000003) | - |
 | Gobs | 3.0 | [Copy to Clash Royale](https://link.clashroyale.com/deck/en?deck=27000002;26000000;26000001;26000002;26000030;28000011;28000001;28000003) | Recommended: Beginner |
