@@ -40,6 +40,18 @@ EDIT: This is intended as a supplement to our previously posted guides on Reddit
 	- Miner: gets value from pump, quicker cycle, clutch tank, less risky unlike rocket
 	- Fireball: quicker cycle, kills horde
 
+## Decks
+
+| Name | Avg Elixir | Deck Link (copy to Clash Royale) | Notes
+|---|---|---|---|
+| Standard | 2.9 | [Copy to Clash Royale](https://link.clashroyale.com/deck/en?deck=27000002;26000000;26000001;26000010;26000030;28000011;28000001;28000003) | - |
+| Gobs | 3.0 | [Copy to Clash Royale](https://link.clashroyale.com/deck/en?deck=27000002;26000000;26000001;26000002;26000030;28000011;28000001;28000003) | Recommended: Beginner |
+| Bats | 3.0 | [Copy to Clash Royale](https://link.clashroyale.com/deck/en?deck=27000002;26000000;26000001;26000049;26000030;28000011;28000001;28000003) | Recommended: Beginner |
+| Nado | 2.9 | [Copy to Clash Royale](https://link.clashroyale.com/deck/en?deck=27000002;26000000;26000001;26000010;26000030;28000011;28000012;28000003) | - |
+| Nado Bats | 3.0 | [Copy to Clash Royale](https://link.clashroyale.com/deck/en?deck=27000002;26000000;26000001;26000049;26000030;28000011;28000012;28000003) | Recommended: Advanced |
+| Miner Nado | 2.6 | [Copy to Clash Royale](https://link.clashroyale.com/deck/en?deck=27000002;26000000;26000001;26000049;26000030;28000011;28000012;26000032) | Recommended: Advanced |
+| Fireball Princess | 2.6 | [Copy to Clash Royale](https://link.clashroyale.com/deck/en?deck=27000002;26000000;26000001;26000010;26000030;28000011;26000026;28000000) | - |
+
 ## About the Authors
 
 Both play mortar cycle on ladder at top 1k global.
