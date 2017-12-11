@@ -3,6 +3,7 @@
 - RACF
     - [Rules](racf/rules.md)
     - [Roles](racf/roles.md)
+    - [Benefits](racf/benefits.md)
     - [FAQ](racf/faq.md)
     - [Branding](racf/branding.md)
 
