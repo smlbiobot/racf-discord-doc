@@ -11,9 +11,17 @@ Here are some sample messages which work well.
 
 ## New members
 
+### Sample 1
+
 - Welcome to the Reddit Alpha Clan Family (RACF)! Please join our Discord http://discord.gg/racf (also in clan description)
 - We kick the 50/50 as soon as it happens, unless it is during clan chest and 12 hrs before and after the event.
 - If you get kicked, pls join one of our feeders. RACF clans are Alpha, Bravo, Charlie, Delta, Echo, Foxtrot, Golf, Hotel with the red rocket emblem.
+
+### Sample 2
+
+- Welcome to the reddit alpha clan family (RACF)! We kick \#50 when full except during clan chests and encourage you to move up to Golf when able!
+- Please join our clan family discord at http://discord.gg/racf
+- This grants you access to our family chats, strategy channel, 12 win GC decks, tournaments, etc. You should definitely check it out. Discord activity is required for promotions.
 
 ## Returning members
 
