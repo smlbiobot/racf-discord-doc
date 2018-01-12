@@ -29,3 +29,19 @@ Bot Command | Description
 ## Series 1: abc: Deadline
 
 We will conclude the series on January 18th, 2018 at midnight EST. The winner will get a **special color role** of your choice for 3 days. Good luck!
+
+
+## Screenshots
+
+`!crladder info abc`
+
+<img src="/img/bot/crladder-info.png" />
+
+`!crladder battle @Opponent`
+
+<img src="/img/bot/crladder-battle.png" />
+
+## Source
+
+- Code: https://github.com/smlbiobot/SML-Cogs/tree/master/crladder
+- Battle Log API: http://cr-api.com
