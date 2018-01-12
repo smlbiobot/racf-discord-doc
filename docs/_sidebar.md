@@ -21,6 +21,7 @@
     - [RACF day-to-day](member/racf.md)
     - [Feedback](member/feedback.md)
     - [Discordgram](member/discordgram.md)
+    - [CR: Ladder](member/crladder)
 
 - Leaders
     - [Overview](leaders.md)
