@@ -8,7 +8,7 @@ The reason for choosing TrueSkill over other rating system is because TrusSkill 
 
 This is not a fantasy game. In order to win, you will have to battle against another player who is registered in the series. After you have battled, send a bot command to declare who you have played against and the bot will read from the API and updating your rating.
 
-Unlike CR’s impleentation of elo, this system uses a confidence rating based on the number of games you play and adjust your rating accordingly.
+Unlike CR’s implementation of Elo, this system uses a confidence rating based on the number of games you play and adjust your rating accordingly.
 
 We are currently in testing phase and have setup a ladder series called **abc**. This is the only series that is active right now.
 
