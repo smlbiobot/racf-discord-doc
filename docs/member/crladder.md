@@ -1,6 +1,6 @@
 # CR Ladder
 
-This is a custom ladder that calculates user rating using [TrueSkill](http://trueskill.org/), a rating system developed by Microsoft Research that has been used on Xbox LIVE for ranking and matchmaking service. The system is similar to [Elo](https://en.wikipedia.org/wiki/Elo_rating_system) and [Glicko](https://en.wikipedia.org/wiki/Glicko_rating_system) for those are are familiar with them.
+This is a custom ladder that calculates user rating using [TrueSkill](https://www.microsoft.com/en-us/research/project/trueskill-ranking-system/), a rating system developed by Microsoft Research that has been used on Xbox LIVE for ranking and matchmaking service. The system is similar to [Elo](https://en.wikipedia.org/wiki/Elo_rating_system) and [Glicko](https://en.wikipedia.org/wiki/Glicko_rating_system) for those are are familiar with them.
 
 The reason for choosing TrueSkill over other rating system is because TrusSkill supports team vs team rating whereas other systems strictly focuses on 1v1. This nuance is unimportant for now, however it may be useful for us later.
 
