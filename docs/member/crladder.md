@@ -10,7 +10,7 @@ This is not a fantasy game. In order to win, you will have to play against anoth
 
 Unlike CR’s implementation of Elo, this system uses a confidence rating based on the number of games you play and adjust your rating accordingly.
 
-We are currently in testing phase and have setup a ladder series called **abc**. This is the only series that is active right now.
+We are currently in testing phase and have setup a ladder series called **r1**. This is the only series that is active right now.
 
 
 - Use **#crladder-bot** for bot commands.
@@ -18,17 +18,17 @@ We are currently in testing phase and have setup a ladder series called **abc**.
 
 Bot Command | Description
 --- | ---
-`!crladder register abc` | Self-**register** to be on the ladder series called **abc**.
-`!crladder info abc` | **Info**. See current ranking of all the players who have played at least one game.
-`!crladder info abc showall` | See current ranking of players who have registered. This is useful for looking up people to play against.
-`!crladder info abc winloss` | Show total games / win / draw / loss info together with the ladder.
-`!crladder info abc winloss showall` | Show W/D/L info for everyone. However, this is primarily pointless because people who have not played a game will have W/D/L all be 0.
+`!crladder register r1` | Self-**register** to be on the ladder series called **r1**.
+`!crladder info r1` | **Info**. See current ranking of all the players who have played at least one game.
+`!crladder info r1 showall` | See current ranking of players who have registered. This is useful for looking up people to play against.
+`!crladder info r1 winloss` | Show total games / win / draw / loss info together with the ladder.
+`!crladder info r1 winloss showall` | Show W/D/L info for everyone. However, this is primarily pointless because people who have not played a game will have W/D/L all be 0.
 `!crladder battle @Opponent` | After you have **battled** in Clash Royale, run this command to update your rating.
-`!crladder battle @Opponent abc` | If you are registered to multiple active ladders, you will need to also add the name of the series.
+`!crladder battle @Opponent r1` | If you are registered to multiple active ladders, you will need to also add the name of the series.
 
 !> You can only report one battle at a time. If you have played multiple games against the same person and did not report any of them, only the last one is rated.
 
-## Series 1: abc: Deadline
+## Series 1: r1: Deadline
 
 We will conclude the series on January 18th, 2018 at midnight EST. The winner will get a **special color role** of your choice for 3 days. Good luck!
 
@@ -39,11 +39,11 @@ We will conclude the series on January 18th, 2018 at midnight EST. The winner wi
 
 <img src="/img/bot/crladder-battle.png" />
 
-`!crladder info abc`
+`!crladder info r1`
 
 <img src="/img/bot/crladder-info.png" />
 
-`!crladder info abc winloss`
+`!crladder info r1 winloss`
 
 <img src="/img/bot/crladder-info-winloss.png" />
 
