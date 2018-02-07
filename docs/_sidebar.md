@@ -23,6 +23,10 @@
     - [Discordgram](member/discordgram.md)
     - [CR: Ladder](member/crladder)
 
+- Elders
+    - [Overview](elders.md)
+    - [Greetings](leader/greetings.md)
+
 - Leaders
     - [Overview](leaders.md)
     - [Kicking 50/50](leader/kick5050.md)
@@ -34,7 +38,6 @@
     - [Trophies](leader/trophies.md)
     - [Miscellaneous](leader/misc.md)
     - [Scenarios](leader/scenarios.md)
-    - [Greetings](leader/greetings.md)
     - [Quotes](leader/quotes.md)
 
 - Moderators
