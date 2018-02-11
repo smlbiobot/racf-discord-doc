@@ -25,7 +25,7 @@
 
 - Elders
     - [Overview](elders.md)
-    - [Greetings](leader/greetings.md)
+    - [Greetings](elder/greetings.md)
 
 - Leaders
     - [Overview](leaders.md)
