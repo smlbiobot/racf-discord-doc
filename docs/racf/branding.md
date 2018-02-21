@@ -78,18 +78,18 @@ End of season requirements
 
 #### Promo
 
-<img src="img/racf/promo/racf-k01.png" style="width:100%; height:auto;" />
+<img src="img/promo/racf-k01.png" style="width:100%; height:auto;" />
 
 #### Twitter Banner
 
-<img src="img/racf/promo/racf-k01-twitter-banner.png" style="width:100%; height:auto;" />
+<img src="img/promo/racf-k01-twitter-banner.png" style="width:100%; height:auto;" />
 
 ### Antartica (Royal Ghost)
 
 #### Promo
 
-<img src="img/racf/promo/racf-l04.png" style="width:100%; height:auto;" />
+<img src="img/promo/racf-l04.png" style="width:100%; height:auto;" />
 
 #### Twitter Banner
 
-<img src="img/racf/promo/racf-l02-twitter-banner.png" style="width:100%; height:auto;" />
+<img src="img/promo/racf-l02-twitter-banner.png" style="width:100%; height:auto;" />
