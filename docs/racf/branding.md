@@ -69,3 +69,27 @@ Headers for social media
 ### YouTube
 
 <img src="img/racf/social/racf-youtube-002.png" style="width:100%; height:auto;" />
+
+## Promotions
+
+End of season requirements
+
+### Red (Mini Pekka)
+
+#### Promo
+
+<img src="img/racf/promo/racf-k01.png" style="width:100%; height:auto;" />
+
+#### Twitter Banner
+
+<img src="img/racf/promo/racf-k01-twitter-banner.png" style="width:100%; height:auto;" />
+
+### Antartica (Royal Ghost)
+
+#### Promo
+
+<img src="img/racf/promo/racf-l04.png" style="width:100%; height:auto;" />
+
+#### Twitter Banner
+
+<img src="img/racf/promo/racf-l02-twitter-banner.png" style="width:100%; height:auto;" />
