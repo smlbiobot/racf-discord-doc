@@ -21,6 +21,8 @@ Please do not edit, change, distort, recolor, or reconfigure the RACF logo.
 
 ### Primary
 
+[Github](https://github.com/smlbiobot/racf-discord-doc/tree/master/docs/img/racf)
+
 <img src="img/racf/racf-logo-bg-red.png" style="width:20%; height:auto;" />
 
 ### White background
@@ -54,6 +56,8 @@ Intended for use against dark backgrounds.
 
 Headers for social media
 
+[Github](https://github.com/smlbiobot/racf-discord-doc/tree/master/docs/img/racf/social/)
+
 ### Twitter
 
 <img src="img/racf/social/racf-twitter-004.png" style="width:100%; height:auto;" />
@@ -73,6 +77,8 @@ Headers for social media
 ## Promotions
 
 End of season requirements
+
+[Github](https://github.com/smlbiobot/racf-discord-doc/tree/master/docs/img/promo)
 
 ### Red (Mini Pekka)
 
