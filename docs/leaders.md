@@ -10,7 +10,7 @@ Leaders require the **Bot Commander** role to use most of these commands.
 - [Audit](leader/audit.md)
 - [Trophies](leader/trophies.md)
 - [Miscellaneous](leader/misc.md)
-- [Quotes](leader/quotes-tryout.md)
+- [Quotes](leader/quotes.md)
 
 ## Two-Factor Authentication
 
