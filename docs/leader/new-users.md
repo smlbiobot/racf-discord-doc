@@ -14,7 +14,7 @@ This command does the following
 
 - Register player tag with `!crprofile`, `!crclan` and `!racfaudit`.
 - Look up player profile and retrieve clan information.
-- Verify that the clan belong to a list of clans which allow role assignment (e.g. A-H, Mini, Mini2 but not eSports).
+- Verify that the clan belong to one of our clan.
 - Assign clan roles.
 - Verify that the clan allow Membership assignment.
 - Assign standard member roles: Member, Tourney, Practice.
