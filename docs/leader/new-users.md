@@ -17,7 +17,7 @@ This command does the following
 - Verify that the clan belong to one of our clan.
 - Assign clan roles.
 - Verify that the clan allow Membership assignment.
-- Assign standard member roles: Member, Tourney, Practice.
+- Assign standard member roles: Member, Tourney.
 - Change nickname to user IGN.
 
 ?> Alias `!r v` (note space between r and v)
