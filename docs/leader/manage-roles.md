@@ -1,6 +1,6 @@
 # Role Management
 
-The commands `!addrole` and `!removerole` have been depreciated. Please use `!changerole` for all role changing operations.
+`!changerole` is our universal role management command and is able to add and remove mutliple roles in a single command.
 
 ## Making changes to multiple roles
 

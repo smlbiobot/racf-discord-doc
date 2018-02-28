@@ -40,6 +40,12 @@ If the visitor said that they are just visiting, you can run:
 
 ## Visitors interested in joining
 
-If the visitor mentioned that they are interested in joining our clans, after you have run `!v` against them, you can go to the #visitors channel and show them our trophy requirements:
+If the visitor mentioned that they are interested in joining our clans, after you have run `!v` against them, you can go to the `#visitors` channel and show them our trophy requirements:
 
 `!clans`
+
+## General rules
+
+- Try to take care of new users in #welcome efficiently.
+- In general, it is better to assign them a visitor / member role before furthering conversation in #visitors.
+- Users without role assignments won’t be able to chat in any channels that is why assigning them with the `visitor` role is always better than lengthy conversations in `#welcome`.
