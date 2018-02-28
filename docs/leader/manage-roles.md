@@ -4,8 +4,6 @@
 
 ## Making changes to multiple roles
 
-To make it easier to manage multiple roles without excessive typing, you can use the `!changerole` command.
-
 Syntax:
 
 `!changerole member +role_to_add -role_to_remove`
