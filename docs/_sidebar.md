@@ -37,6 +37,7 @@
     - [Trophies](leader/trophies.md)
     - [Miscellaneous](leader/misc.md)
     - [Quotes](leader/quotes.md)
+    - [Sean’s Story Time](leader/sean.md)
 
 - Moderators
     - [Overview](mods.md)

@@ -11,6 +11,7 @@ Leaders require the **Bot Commander** role to use most of these commands.
 - [Trophies](leader/trophies.md)
 - [Miscellaneous](leader/misc.md)
 - [Quotes](leader/quotes.md)
+- [Sean’s Story Time](leader/sean.md)
 
 ## Two-Factor Authentication
 
