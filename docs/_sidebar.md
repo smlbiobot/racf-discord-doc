@@ -35,9 +35,11 @@
     - [Member Management](leader/manage-members.md)
     - [Audit](leader/audit.md)
     - [Trophies](leader/trophies.md)
+    - [End of Season](leader/season.md)
     - [Miscellaneous](leader/misc.md)
     - [Quotes](leader/quotes.md)
     - [Sean’s Story Time](leader/sean.md)
+
 
 - Moderators
     - [Overview](mods.md)

@@ -9,6 +9,7 @@ Leaders require the **Bot Commander** role to use most of these commands.
 - [Member Management](leader/manage-members.md)
 - [Audit](leader/audit.md)
 - [Trophies](leader/trophies.md)
+- [End of Season](leader/season.md)
 - [Miscellaneous](leader/misc.md)
 - [Quotes](leader/quotes.md)
 - [Sean’s Story Time](leader/sean.md)
