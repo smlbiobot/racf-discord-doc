@@ -1,6 +1,6 @@
 # Rules
 
-**Welcome to the home of the Reddit Alpha Clan Family!** Reddit Alpha is a Global Top 15 clan, founded by Woody, with hundreds of members throughout a thriving feeder system. We are the best place to discuss and practice high-level competitive Clash Royale in a fun and friendly setting. To define our clan family's purpose and promote our members' enjoyment of the game, we establish the following rules:
+**Welcome to the home of the 100T Clan Family!** Reddit Alpha is a Global Top 15 clan, founded by Woody, with hundreds of members throughout a thriving feeder system. We are the best place to discuss and practice high-level competitive Clash Royale in a fun and friendly setting. To define our clan family's purpose and promote our members' enjoyment of the game, we establish the following rules:
 
 1. **Treat others with respect.** Refrain from any speech that is abusive, threatening, defamatory, libelous; or racially, sexually, religiously, or otherwise discriminatory in nature.
 2. **Play fair.** Play your best in every game, especially against fellow clanmates! Do not post instructions for or use any unauthorized third-party software while playing the game.

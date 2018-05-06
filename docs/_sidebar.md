@@ -1,6 +1,6 @@
 - [Home](README.md)
 
-- RACF
+- 100T
     - [Rules](racf/rules.md)
     - [Roles](racf/roles.md)
     - [Benefits](racf/benefits.md)
@@ -18,7 +18,7 @@
 - Members
     - [Overview](members.md)
     - [Channels](member/channels.md)
-    - [RACF day-to-day](member/racf.md)
+    - [100T day-to-day](member/racf.md)
     - [Feedback](member/feedback.md)
     - [Discordgram](member/discordgram.md)
     - [CR: Ladder](member/crladder)

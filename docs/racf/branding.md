@@ -1,21 +1,21 @@
 # Branding
 
-The RACF logo is based off of the red rocket of our Clash Royale clan emblem, placed inside a black triangle representing the letter A in Alpha.
+The 100T logo is based off of the red rocket of our Clash Royale clan emblem, placed inside a black triangle representing the letter A in Alpha.
 
 ## Color
 
 Name | Type | Value
 --- | --- | ---
-RACF Red | RGB | rgb(255, 21, 59)
-RACF Red | Hex | ff153b
-RACF Light Red | RGB | rgb(255, 166, 179)
-RACF Light Red | Hex | ffa6b3
-RACF Black | RGB | rgb(0, 0, 0)
-RACF Black | Hex | 000000
+100T Red | RGB | rgb(255, 21, 59)
+100T Red | Hex | ff153b
+100T Light Red | RGB | rgb(255, 166, 179)
+100T Light Red | Hex | ffa6b3
+100T Black | RGB | rgb(0, 0, 0)
+100T Black | Hex | 000000
 
 ## Logo
 
-Please do not edit, change, distort, recolor, or reconfigure the RACF logo.
+Please do not edit, change, distort, recolor, or reconfigure the 100T logo.
 
 [Download logo pack (zip)](https://github.com/smlbiobot/racf-discord-doc/blob/master/docs/img/racf/logo-pack.zip?raw=true)
 

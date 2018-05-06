@@ -18,7 +18,7 @@ Commands | Functionality
 
 ## Casino chips
 
-There are two kinds of banks on the RACF Discord server. One is the normal bank. The other is the casino bank. To open an account with the casino, you must type `!casino join`. After that you can start earning chips with `!casino payday`. To check your chip balance, type `!casino balance`. Additionally, you may convert your regular credits to casino credits by using `!casino exchange`.
+There are two kinds of banks on the 100T Discord server. One is the normal bank. The other is the casino bank. To open an account with the casino, you must type `!casino join`. After that you can start earning chips with `!casino payday`. To check your chip balance, type `!casino balance`. Additionally, you may convert your regular credits to casino credits by using `!casino exchange`.
 
 Commands | Functionality
 --- | ---

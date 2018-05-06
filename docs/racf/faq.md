@@ -1,12 +1,12 @@
 # Frequently Asked Questions
 
-## What is the Reddit Alpha Clan Family (RACF)?
+## What is the 100T Clan Family (100T)?
 
-The **Reddit Alpha Clan Family (RACF)** was established by Woody shortly after the Clash Royale soft launch. From humble beginnings, Reddit Alpha has grown into a Global Top 15 clan with hundreds of members throughout a thriving system of nine family clans in Clash Royale and four family bands in Brawl Stars.
+The **100T Clan Family (100T)** was established by Woody shortly after the Clash Royale soft launch. From humble beginnings, Reddit Alpha has grown into a Global Top 15 clan with hundreds of members throughout a thriving system of nine family clans in Clash Royale and four family bands in Brawl Stars.
 
 Our clan family is home to many of Clash Royale's greatest tournament players, three of whom made it to the Crown Duel. We have 3 clans on the global leaderboard with Reddit Alpha consistently in the top 15, Reddit Bravo consistently in the top 100 and Reddit Charlie consistently in the top 200. Every clan in our family finishes the clan crown chest early every time.
 
-In Brawl Stars, the RACF has 3 trophy-pushing bands and 1 CR-members-only band. Since the first day of app’s beta launch, the RACF has had a presence on the global leaderboard, with Reddit Alpha being consistently on the top 10 and Reddit Bravo in the top 50.
+In Brawl Stars, the 100T has 3 trophy-pushing bands and 1 CR-members-only band. Since the first day of app’s beta launch, the 100T has had a presence on the global leaderboard, with Reddit Alpha being consistently on the top 10 and Reddit Bravo in the top 50.
 
 ## Which are your CR clans and BR bands?
 
@@ -71,7 +71,7 @@ We try to maintain 2-4 co-leaders in each clan. When we require more co-leaders 
 
 ## What is your BM (bad manners) policy?
 
-The RACF does not have any policy against BM'ing random people you meet in ladder, challenges or tourneys. We do ask that our members not BM each other unless it’s agreed upon beforehand in some way, though. We understand that there is a mute button but feel that there should be a basic level of respect among fellow RACF members. We also encourage anyone who is offended by emotes to make use of the in-game mute button. BM'ing in clan chat (i.e. being a dick to your clan mates) is a kickable offense. If any RACF member is found to be consistently BM'ing other RACF members then they may be subject to punishment of some sort.
+The 100T does not have any policy against BM'ing random people you meet in ladder, challenges or tourneys. We do ask that our members not BM each other unless it’s agreed upon beforehand in some way, though. We understand that there is a mute button but feel that there should be a basic level of respect among fellow 100T members. We also encourage anyone who is offended by emotes to make use of the in-game mute button. BM'ing in clan chat (i.e. being a dick to your clan mates) is a kickable offense. If any 100T member is found to be consistently BM'ing other 100T members then they may be subject to punishment of some sort.
 
 ## What is a high elder?
 
@@ -79,13 +79,13 @@ We grant a special role called *High Elder* on our Discord server. The role is a
 
 ## How can I be part of the competitive team?
 
-We usually make an announcement on Discord whenever we are assembling teams to represent RACF in upcoming tournaments. If there is a try-out,  you should obviously play in one so the team captains can evaluate your game plays. In others, we allow team captains to select their players. If you are new to the family and feel that you are not known among the captains, you can demonstrate your skills by finishing in top spots in 10k tournaments and/or get into the championship rounds for the RACF Tourney, which is held bi-monthly.
+We usually make an announcement on Discord whenever we are assembling teams to represent 100T in upcoming tournaments. If there is a try-out,  you should obviously play in one so the team captains can evaluate your game plays. In others, we allow team captains to select their players. If you are new to the family and feel that you are not known among the captains, you can demonstrate your skills by finishing in top spots in 10k tournaments and/or get into the championship rounds for the 100T Tourney, which is held bi-monthly.
 
 ## Brawl Stars
 
 ### Why are the leaders at the bottom of the roster?
 
-As a well-established clan family in Clash Royale, the Reddit Alpha Clan Family (RACF) is primarily interested in building a top global clan (aka band) in Brawl Stars. To ensure the long-term success of such clan, we feel that strong leadership is required, and we have initiated our effort by placing our best players in CR to form the leadership for Reddit Alpha.
+As a well-established clan family in Clash Royale, the 100T Clan Family (100T) is primarily interested in building a top global clan (aka band) in Brawl Stars. To ensure the long-term success of such clan, we feel that strong leadership is required, and we have initiated our effort by placing our best players in CR to form the leadership for Reddit Alpha.
 
 We recognize that CR skills do not necessarily translate to BS skills, and that some of you are concerned that our leadership is currently at the bottom of the roster. In order to ensure the future success of the clan family though, we do feel that having trustworthy co-leaders is a must.
 

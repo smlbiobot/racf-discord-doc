@@ -1,6 +1,6 @@
 # Roles
 
-This gives a summary of what is expected from members with different roles in the RACF.
+This gives a summary of what is expected from members with different roles in the 100T.
 
 ## Members
 
@@ -11,7 +11,7 @@ This gives a summary of what is expected from members with different roles in th
 
 * Accept new members.
 * When accepting new members, they should:
-  * Ask if the person is new to the RACF.
+  * Ask if the person is new to the 100T.
   * Ask that person to join our Discord server: [http://discord.gg/racf](http://discord.gg/racf)
   * Let them know about the 50/50 kicking policy.
 * Not allowed to kick 50/50.

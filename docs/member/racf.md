@@ -1,9 +1,9 @@
-# RACF day-to-day
+# 100T day-to-day
 
 
 ## Change clan
 
-Used when you change from one RACF clan to another. Syntax:
+Used when you change from one 100T clan to another. Syntax:
 
 `!changeclan Alpha`
 
@@ -31,7 +31,7 @@ A number of roles are self-assignable / self-removable by members. Syntax:
 
 ## Rules + Roles
 
-`!racf` displays links to the RACF rules, roles, and discord invite link.
+`!racf` displays links to the 100T rules, roles, and discord invite link.
 
 <!--
 ## Farmers

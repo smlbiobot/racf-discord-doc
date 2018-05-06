@@ -1,4 +1,4 @@
-# Welcome to the RACF Discord server!
+# Welcome to the 100T Discord server!
 
 <img src="https://raw.githubusercontent.com/smlbiobot/racf-discord-doc/master/docs/img/racf/racf-logo-bg-red.png" width="200" height="200">
 

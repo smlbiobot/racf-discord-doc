@@ -2,12 +2,12 @@ If you are mature and active in the clan and Discord, we will promote you as an 
 
 ## Responsibilities
 
-You have the following responsibilities as an elder in the RACF:
+You have the following responsibilities as an elder in the 100T:
 
 1. Accept new members.
 2. When accepting new members, you should:
     - Make sure that the person meets trophy requirements.
-    - Ask if the person is new to the RACF.
+    - Ask if the person is new to the 100T.
     - Ask that person to join our Discord server: http://discord.gg/racf
     - Let them know about the 50/50 kicking policy.
 3. Not allowed to kick 50/50.

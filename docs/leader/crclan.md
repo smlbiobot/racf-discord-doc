@@ -23,7 +23,7 @@ trophy2arena | Convert trophies to arenas.
 
 ## Clan keys
 
-On the RACF Discord server, the `clankey` for each clan are set to:
+On the 100T Discord server, the `clankey` for each clan are set to:
 
 clankey | Clan
 --- | ---

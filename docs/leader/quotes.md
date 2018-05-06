@@ -19,6 +19,6 @@ Similar to custom commands you may store images via Discord’s auto image previ
 
 ## Examples
 
-`!qs a racf RACF is awesome!`
+`!qs a racf 100T is awesome!`
 
 `!q racf`

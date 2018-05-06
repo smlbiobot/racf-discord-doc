@@ -2,7 +2,7 @@
 
 ## What is Alpha eSports?
 
-Alpha eSports (AeS) is the newest eSports branch of the Reddit Alpha Clan Family. This clan is intended for members of the clan family who are mostly interested in tournament-level gameplay and are very active in the competitive tournament scene, either as participants or content creators.
+Alpha eSports (AeS) is the newest eSports branch of the 100T Clan Family. This clan is intended for members of the clan family who are mostly interested in tournament-level gameplay and are very active in the competitive tournament scene, either as participants or content creators.
 
 ## What is the trophy requirement for Alpha eSports?
 
@@ -22,7 +22,7 @@ People who have been selected to participate in the next tryout will be notified
 
 ## What should I do if I am no longer interested in Alpha eSports?
 
-You should remove the Recruit role on the RACF Discord server http://discord.gg/racf by typing `!togglerecruit` in the *bot-commands* channel.
+You should remove the Recruit role on the 100T Discord server http://discord.gg/racf by typing `!togglerecruit` in the *bot-commands* channel.
 
 ## When will the next tryout be held?
 
