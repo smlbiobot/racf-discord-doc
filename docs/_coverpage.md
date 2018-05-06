@@ -5,7 +5,7 @@
 It can be overwhelming to join a new server. This will guide you through how our server is set up and explain some useful commands you can run.
 
 [Get started](members.md)
-[http://discord.gg/racf](http://discord.gg/racf)
+[http://discord.gg/100t](http://discord.gg/100t)
 
 If you are completely new to Discord, check out:
 

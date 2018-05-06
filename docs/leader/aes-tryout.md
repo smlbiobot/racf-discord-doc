@@ -10,7 +10,7 @@ Tryout Admins:
 
 Recruits:
 - Fill out the application form.
-- Join our Discord server: http://discord.gg/racf
+- Join our Discord server: http://discord.gg/100t
 - Change their Discord username / nickname to be the same as their IGN.
 
 Admins:

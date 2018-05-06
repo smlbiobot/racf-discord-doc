@@ -8,7 +8,7 @@ You have the following responsibilities as an elder in the 100T:
 2. When accepting new members, you should:
     - Make sure that the person meets trophy requirements.
     - Ask if the person is new to the 100T.
-    - Ask that person to join our Discord server: http://discord.gg/racf
+    - Ask that person to join our Discord server: http://discord.gg/100t
     - Let them know about the 50/50 kicking policy.
 3. Not allowed to kick 50/50.
 

@@ -22,7 +22,7 @@ People who have been selected to participate in the next tryout will be notified
 
 ## What should I do if I am no longer interested in Alpha eSports?
 
-You should remove the Recruit role on the 100T Discord server http://discord.gg/racf by typing `!togglerecruit` in the *bot-commands* channel.
+You should remove the Recruit role on the 100T Discord server http://discord.gg/100t by typing `!togglerecruit` in the *bot-commands* channel.
 
 ## When will the next tryout be held?
 

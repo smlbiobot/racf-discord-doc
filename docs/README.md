@@ -10,7 +10,7 @@ If you are completely new to Discord, check out:
 
 Please use this invite link to invite other people to the server:
 
-- [http://discord.gg/racf](http://discord.gg/racf)
+- [http://discord.gg/100t](http://discord.gg/100t)
 
 ## Discord Roles
 

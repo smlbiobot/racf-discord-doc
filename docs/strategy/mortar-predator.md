@@ -12,7 +12,7 @@ The **Mortar cycle** deck (aka _the_ F2P Ladder Deck due to its 6 commons, 1 rar
 
 I have asked **Predator** [/u/ArcaneForgery](http://reddit.com/u/ArcaneForgery), who finished last season at 1,336th global with 13/10/x/4 to demonstrate how to play this correctly.
 
-Please tag [/u/ArcaneForgery](http://reddit.com/u/ArcaneForgery) if you have question about the strategies. Additionally, you can join the 100T Discord server at http://discord.gg/racf if you would like to speak to him directly.
+Please tag [/u/ArcaneForgery](http://reddit.com/u/ArcaneForgery) if you have question about the strategies. Additionally, you can join the 100T Discord server at http://discord.gg/100t if you would like to speak to him directly.
 
 ## Strategy
 

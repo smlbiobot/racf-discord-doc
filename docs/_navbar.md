@@ -13,5 +13,5 @@
 - Strategy
     - [Overview](strategy.md)
 - Social
-    - [Discord](http://discord.gg/racf)
+    - [Discord](http://discord.gg/100t)
     - [Twitter](http://twitter.com/RedditAlpha)
