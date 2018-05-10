@@ -21,7 +21,10 @@
     - [100T day-to-day](member/racf.md)
     - [Feedback](member/feedback.md)
     - [Discordgram](member/discordgram.md)
+    - [Challenge](challenge/index)
+        - [1. DP Bandit Ram Bridge Spam](challenge/wk_1_bridge-spam-zappies)
     - [CR: Ladder](member/crladder)
+
 
 - Elders
     - [Overview](elders.md)
