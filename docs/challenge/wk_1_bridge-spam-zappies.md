@@ -58,3 +58,50 @@ The strategy for most of this was put together by **ApocD2I** and the data was p
 
 - **RoyaleAPI Deck Stats**:  https://royaleapi.com/decks/stats?name=bandit,battle-ram,dark-prince,fireball,ice-golem,inferno-dragon,zap,zappies&battle_type=GC
 - **RoyaleReplay**: https://www.replayroyale.com/?d0=26000046;26000036;26000027;28000000;26000038;26000037;28000008;26000052
+
+## Replay notes
+
+### Replay 1: Our Deck vs. Miner/Balloon Cycle
+
+https://www.replayroyale.com/v/tv1525273514_0
+
+Result: Our deck loses 1-0 to miner/balloon, but keeps it close.
+
+| MM:SS | Description
+| --- | ---
+| 0:47 | The fireball value is huge — takes down two zappies, the rest of an inferno dragon, and sets up the next push.
+| 1:00 | Because ID is down, the push with miner/balloon easily takes our tower.  We decided to try to punish with bandit and dark prince and took half of the tower.
+| 2:20 | The split push by our side almost takes the left tower.  The dark prince knocks out the tombstone allowing the battle ram to connect and the bandit dashes from the right side to the left to connect and deal some additional damage.
+| 3:00  | Even though this deck is tough, with a little more time it could have turned into a win as we had Inferno Dragon ready to deal with the Balloon and had more damage down on their right tower.
+
+> Key Takeaway: Inferno Dragon is one of your most important units and you can get punished big-time if you mis-play it.
+
+### Replay 2: Our Deck vs. Lavaloon
+
+https://www.replayroyale.com/v/tv1524603945_0
+
+Result: After taking the lead, we lose 2-1 in OT -- both towers went down due to misplayed Inferno Dragons
+
+| MM:SS | Description
+| --- | ---
+| 0:58 |  We play an Inferno Dragon in support of a Battle Ram -- it gets taken down by the minions which sets up the next push.
+| 1:30 |  A solo balloon goes after our tower and the only defense is zappies that catch a fireball — 50% of our tower is down, but we snag 33% of theirs.
+| 2:40 | Lavaloon key push builds on the right while we take the left tower
+| 2:44 |  Inferno Dragon is dropped too close to river and loses connection with Balloon (tower lost).
+| 3:05 |  We drop our Inferno Dragon by the river next to two Mega Minions.  Middle balloon finishes us off.
+
+### Replay 3: Our Deck vs. Log Bait
+
+https://www.replayroyale.com/v/tv1524503142_0
+
+Result: 1-0 with the win coming on a final snowball push.
+
+| MM:SS | Description
+| --- | ---
+| 0:25 | Our dark prince takes care of their goblin gang, but gets tornado'd to activate king tower (deals 33% damage to left tower)
+| 0:32 | We fireball their goblin barrel for a -1 elixir trade, but take no damage.
+| 1:00 | Our zappies laugh at their knight.
+| 1:28 | Example of zappies + zap taking care of business against swarms (GG and GB)
+| 2:15 | Another good zappie interaction -- zappies in the back to support and with the help of zap, cleans up a GB on the way for minimal damage.
+| 3:05 | Fireballs for princesses, too and they help us by mis-playing the next GB.
+| 3:20  | Final push... Dark Prince cleans up GB.  IG, Zappies, Ram all go down at the bridge -- Bandit follows. GGWP.
