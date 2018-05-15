@@ -22,4 +22,5 @@ Topics | Description
 [100T Day-to-day](member/racf.md) | 100T-specific commands.
 [Feedback](member/feedback.md) | Send feedback to leadership.
 [Discordgram](member/discordgram.md) | Clash Royale Deck Builder.
+[Clan Wars](member/clan_wars.md) | Data table + Tableau Visualization for battle readiness.
 [Challenge](challenge/index) | Meta deck challenge with Discord role
