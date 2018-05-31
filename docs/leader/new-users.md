@@ -1,5 +1,7 @@
 # Role Assignment in Welcome
 
+See also [Cheat Sheet](leader/cheat-sheet)
+
 ## Auto-assignment with player tag
 
 If the user provides his player tag for you, you can use `!racf verify` to automatically assign roles:
@@ -24,9 +26,8 @@ This command does the following
 
 ### Brawl Stars
 
-`!racf bsverify @SML 889QC9`
+?> Depreciated. There are no BS API left.
 
-?> Alias `!r bv`
 
 ## Visitors
 
