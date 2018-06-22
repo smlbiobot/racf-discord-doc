@@ -13,7 +13,6 @@
     - [CR: Deck Builder](visitor/deck-builder.md)
     - [CR: Leaderboard](visitor/crdata.md)
     - [CR: Profile](visitor/crprofile.md)
-    - [Casino](visitor/casino.md)
 
 - Members
     - [Overview](members.md)
