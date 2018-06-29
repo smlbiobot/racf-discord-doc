@@ -18,6 +18,7 @@
     - [Alpha](rules/alpha)
     - [Bravo](rules/bravo)
     - [Charlie](rules/charlie)
+    - [Golf](rules/golf)
 
 - Members
     - [Overview](members.md)
