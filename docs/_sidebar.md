@@ -14,7 +14,7 @@
     - [CR: Leaderboard](visitor/crdata.md)
     - [CR: Profile](visitor/crprofile.md)
 
-- Clans)
+- Clans Rules
     - [Alpha](rules/alpha)
     - [Bravo](rules/bravo)
     - [Charlie](rules/charlie)
