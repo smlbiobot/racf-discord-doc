@@ -1,9 +1,6 @@
 # Bravo
 
-Please read the rules carefully and react to the pinned message in `#bravo` channel to acknowledge that you have read it.
-
-We’d like to implement a couple of new rules overall and some new rules regarding Clan Wars.
-
+Please read the rules carefully and react to the pinned message in `#bravo` channel with ✅ to acknowledge that you have read it.
 
 ## Basic rules
 
