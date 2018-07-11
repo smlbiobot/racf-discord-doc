@@ -14,7 +14,7 @@ This challenge will offer you two paths towards a special discord role.  You can
 
 | Category | Value
 | --- | ---
-| Challenge Win/Loss/Draw | 19,634 / 35,824 / 16,032
+| Challenge Win/Loss/Draw | 19,634 / 16,032 / 158
 | Challenge Win % |      54.8%
 | Challenge Net Win % |     +10.0%
 
