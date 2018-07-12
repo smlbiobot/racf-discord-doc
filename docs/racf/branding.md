@@ -1,6 +1,12 @@
-# Branding
+# 100T Branding
 
-The 100T logo is based off of the red rocket of our Clash Royale clan emblem, placed inside a black triangle representing the letter A in Alpha.
+Please get the [100 Thieves media assets](https://www.100thieves.com/media-assets-1/) from 100thieves.com
+
+
+
+# Archived RACF Branding
+
+The RACF logo is based off of the red rocket of our Clash Royale clan emblem, placed inside a black triangle representing the letter A in Alpha.
 
 ## Color
 
