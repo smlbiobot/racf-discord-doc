@@ -14,5 +14,5 @@
 - Strategy
     - [Overview](strategy.md)
 - Social
-    - [Discord](http://discord.gg/100t)
-    - [Twitter](http://twitter.com/RedditAlpha)
+    - [Discord](https://discord.gg/100t)
+    - [Twitter](https://twitter.com/100ThievesCR)
