@@ -8,6 +8,7 @@
 - Roles
     - [Visitors](visitors.md)
     - [Members](members.md)
+    - [Elders](elders.md)
     - [Leaders](leaders.md)
     - [Moderators](mods.md)
 - Strategy
