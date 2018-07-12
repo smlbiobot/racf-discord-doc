@@ -1,6 +1,6 @@
 # Welcome to the 100T Discord server!
 
-<img src="img/100t/100T_IconLogo_PrimaryBlack.png" width="164" height="129">
+<img src="img/100t/100t-logo-500.png" width="200" height="200">
 
 This guide explains how our server is set up and provide information on how to use many of our bot commands.
 
