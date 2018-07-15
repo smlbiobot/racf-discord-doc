@@ -2,6 +2,12 @@
 
 Please get the [100 Thieves media assets](https://www.100thieves.com/media-assets-1/) from 100thieves.com
 
+## Current Promotions
+
+
+<img src="img/promo/100t-clanwars-05.png" style="width:100%; height:auto;"/>
+- Published 2018-07-14
+
 
 
 # Archived RACF Branding
