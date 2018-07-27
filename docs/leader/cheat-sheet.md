@@ -30,6 +30,16 @@ You cannot use the GUI to add roles by clicking on names on desktop or going int
 
 More info: [Role Management](leader/manage-roles)
 
+## Listing roles
+
+| Command | Description
+| --- | ---
+| `!mm bravo` | Find everyone with the Bravo role.
+| `!mm bravo elder` | Find everyone with the Bravo and elder role.
+| `!mm bravo -x AlphaFamilyLead elder` | Find everyone in Bravo who is not a leader nor elder. Good for finding long-term members to promote to elders.
+
+More info: [Member Management](leader/manage-members)
+
 ## Member search
 
 | Command | Description
