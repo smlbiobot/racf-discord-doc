@@ -2,11 +2,7 @@
 
 ## What is the 100T Clan Family (100T)?
 
-The **100T Clan Family (100T)** was established by Woody shortly after the Clash Royale soft launch. From humble beginnings, Reddit Alpha has grown into a Global Top 15 clan with hundreds of members throughout a thriving system of nine family clans in Clash Royale and four family bands in Brawl Stars.
-
-Our clan family is home to many of Clash Royale's greatest tournament players, three of whom made it to the Crown Duel. We have 3 clans on the global leaderboard with Reddit Alpha consistently in the top 15, Reddit Bravo consistently in the top 100 and Reddit Charlie consistently in the top 200. Every clan in our family finishes the clan crown chest early every time.
-
-In Brawl Stars, the 100T has 3 trophy-pushing bands and 1 CR-members-only band. Since the first day of app’s beta launch, the 100T has had a presence on the global leaderboard, with Reddit Alpha being consistently on the top 10 and Reddit Bravo in the top 50.
+**100T Alpha** is the official clan of **100 Thieves**, an esports team competing in Clash Royale League. The eight clans below comprise the **100 Thieves Clan Family**, which is home to many experienced trophy-pushing and tournament competitors. The clans were created as a result of a merger and re-branding of the Reddit Alpha Clan Family, founded by Woody in January 2016.
 
 ## Which are your CR clans and BR bands?
 
@@ -16,50 +12,26 @@ We name our clans according to the NATO alphabet. At the moment, our clans / ban
 
 Name | Tag | Type
 --- | --- | ---
-Reddit Alpha  |\#2CCCP  |Main          
-Reddit Bravo  |\#2U2GGQJ|Feeder        
-Reddit Charlie|\#2QUVVVP|Feeder        
-Reddit Delta  |\#Y8GYCGV|Feeder        
-Reddit Echo   |\#LGVV2CG|Feeder        
-Reddit Foxtrot|\#QUYCYV8|Feeder        
-Reddit Golf   |\#GUYGVJY|Feeder        
-Reddit Hotel  |\#UGQ28YU|Feeder        
+100T Alpha  |\#9PJ82CRC|Clan Wars Main          
+100T Bravo  |\#9UQJUJC9|Clan Wars Feeder        
+100T Charlie|\#9G99JQPL|Clan Wars Feeder        
+100T Delta  |\#9G8VYGL0|Clan Wars Feeder        
+100T Echo   |\#9CJ0L9RG|Clan Wars Feeder        
+100T Foxtrot|\#9UQC2P0V|Clan Wars Feeder        
+100T Golf   |\#9UG2R2LQ|Clan Wars Feeder        
+100T Hotel  |\#9Y9VR2JR|Clan Wars Feeder
+100T YOLO   |\#9R8GUC0L|Ladder: Existing Members-Only
+100T Zen    |\#9LPVG9UC|Members-only, clan wars vacation
 
 ### Brawl Stars Bands
 
 Name | Tag | Type
 --- | --- | ---
 Reddit Alpha  |\#LQQ   |Main           
-Reddit Bravo  |\#82RQLR|Feeder         
-Reddit Charlie|\#98VLYJ|Feeder         
-Reddit Delta  |\#Q0YG8V|CR Members only
 
 ## How do I join your clans/bands?
 
-If you are interested in our trophy-pushing clans, just request in-app if you meet that clan’s trophy requirements. If you are interested in joining our eSports clan, please check out the
-[Alpha eSports FAQ](racf/esports-faq.md) to see how you might apply. You can also speak to us on our Discord server at http://discord.gg/100t
-
-## What does trophy-pushing mean?
-
-Members in our trophy-pushing clans strive to be the best players in the game. They are constantly battling to increase their rank and trophies. To stay competitive, we kick the last person on each clan’s roster to the feeders. People from the feeders can move up to clans with higher trophy requirements when they meet them.
-
-## Why does the trophy requirement keep on going up?
-
-The trophy requirements of our trophy-pushing clans are set to the #15-20 of the clan. This ensures that you have room to drop in trophies (aka tilt) without the constant pressure of being kicked. As each season progresses, so does members’ trophies, so the trophy requirements go up as time passes. Further, being in the clan family helps players grow and your card levels may also increase over time. All these will result in higher trophies.
-
-## I no longer meet the trophy requirements of the clan. Will you kick me?
-
-Unless you are 50/50 (last) in the clan, you will not be kicked. The trophy requirements of the clan applies to those who are looking to join, and is not a requirement for members to meet in order to stay. If you feel that you may tilt to the last place of the clan though, you are welcome to join the next feeder to relieve the constant pressure.
-
-## I have tilted. Will you give me 12 hours to push back up so I won’t be kicked?
-
-We kick 50/50 as soon as it happens. We do not give special exceptions to members because that would be unfair to others. In fact, the only people that we do not kick are Leaders. Co-Leaders get kicked if they are at the bottom as well.
-
-**Note:** Since Brawl Stars is a new game, Co-Leaders and Elders are also exempt from being kicked. This is to ensure that there are enough people to accept join requests as well as performing the 50/50 kicks.
-
-## Why did I get kicked from the clan? I was not last.
-
-We kick the last person in the clan unless that member is the Leader (Clash Royale clans), or Elders / Co-Leaders / Leader (Brawl Stars). If your trophies appear to be higher than the last non-kick-exempt member, it is possible that the second last person tilted more than you did between the time of kicking and when you checked the app.
+Please apply on our Discord https://discord.gg/100t
 
 ## How do you become an elder?
 
@@ -71,11 +43,15 @@ We try to maintain 2-4 co-leaders in each clan. When we require more co-leaders 
 
 ## What is your BM (bad manners) policy?
 
-The 100T does not have any policy against BM'ing random people you meet in ladder, challenges or tourneys. We do ask that our members not BM each other unless it’s agreed upon beforehand in some way, though. We understand that there is a mute button but feel that there should be a basic level of respect among fellow 100T members. We also encourage anyone who is offended by emotes to make use of the in-game mute button. BM'ing in clan chat (i.e. being a dick to your clan mates) is a kickable offense. If any 100T member is found to be consistently BM'ing other 100T members then they may be subject to punishment of some sort.
+- Within the family: Not OK
+- Everyone else: OK
 
-## What is a high elder?
+The 100T Clan Family does not have any policy against BM’ing random people you face on Ladder, challenges or tournaments.
 
-We grant a special role called *High Elder* on our Discord server. The role is an acknowledgement of member contribution approaching that provided by those in leadership, despite there being no in-game need for an actual promotion to Co-Leader. High Elders are granted access to the same discussion rooms as those in leadership, and are strong candidates for Co-Leader, but do not receive that role in-game until the Leader requires additional support. See also [Roles](/racf/roles.md) for each role’s responsibilities.
+We do, however, ask that our members not BM each other in the family unless it’s agreed upon beforehand. We understand that there is a mute button but feel that there should be a basic level of respect among fellow 100T members. We do encourage anyone who is offended by emotes to make use of the in-game mute button.
+
+BM’ing family members — in-game without prior agreements, clan chat (being a dick to others), Discord — is a kickable offense. If any 100T member is found to be consistently BM'ing other 100T members then they may be subject to punishment of some sort.
+
 
 ## How can I be part of the competitive team?
 

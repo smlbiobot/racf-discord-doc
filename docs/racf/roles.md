@@ -4,31 +4,28 @@ This gives a summary of what is expected from members with different roles in th
 
 ## Members
 
-* Members are encouraged to advance once they hit the trophy minimum of the next clan up, and required to do so in excess of \~200 trophies.
-* Leaders should send members a DM / clan message advising them to move up to the parent clan if the member’s trophies are too high. Members can be kicked after 72 hrs if they did not move up by themselves.
+* Members in A-H participate in Clan Wars.
+* If members are unable to participate, they should move to Yolo / Zen and let the leaders know about it ahead of time.
 
 ## Elders
 
-* Accept new members.
-* When accepting new members, they should:
-  * Ask if the person is new to the 100T.
-  * Ask that person to join our Discord server: [http://discord.gg/100t](http://discord.gg/100t)
-  * Let them know about the 50/50 kicking policy.
-* Not allowed to kick 50/50.
+* [How to get promoted](elders)
+* [Responsibilities](elders?id=responsibilities)
+
 
 ## Co-Leaders
 
-* All the duties of elders.
-* Kick the 50/50 as soon as it happens (except during [Grace Period](https://app.nuclino.com/t/b/b0aae9db-c454-471a-92b1-2a7d37e86be3)).
-  * When kicking members, DM that member on Discord and advise them to join the feeder clans.
-  * Edit and update roles on Discord after accepting + kicking.
-* Must be active on Discord.
-* Assign roles to people on Discord.
-* Not required to move up for high trophies, but can be kicked as 50/50.
+[Detail](leaders)
+
+* All the duties of elders
+* Active on Discord
+* Role assignments on Discord
+* Help with clan wars recruitment
+* Contribute to leadership discussions
 
 ## Leaders
 
-* All the duties of co-leaders.
-* Cannot be kicked as 50/50. If clan is full, 49/50 should be kicked.
-* Should try to push trophies to avoid being at the bottom.
-* Everything else.
+* All the duties of co-leaders
+* Cannot be kicked for any reasons
+* Should try to push trophies to avoid being at the bottom
+* Everything else
