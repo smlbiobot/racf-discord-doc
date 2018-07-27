@@ -13,7 +13,9 @@
 In most cases,  `!r v` does everything you need and can be used as a reset.
 If you offer someone a spot in a clan in #recruit add the corresponding recruit role for your clan. For example add EchoRecruit to them using the `changerole` command.
 
-More info: [Role Assignment](leader/new-user)
+More info:
+- [Role Assignment](leader/new-user)
+- [Recruitment](leader/recruit)
 
 ## Adding and removing roles
 
