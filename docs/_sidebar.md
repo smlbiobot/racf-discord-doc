@@ -38,6 +38,7 @@
 - Leaders
     - [Overview](leaders.md)
     - [Cheat Sheet](leader/cheat-sheet)
+    - [Recruitment](leader/recruit)
     - [Kicking 50/50](leader/kick5050.md)
     - [Role Assignment in Welcome](leader/new-users.md)
     - [Role Management](leader/manage-roles.md)
