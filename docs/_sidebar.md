@@ -13,12 +13,6 @@
     - [CR: Deck Builder](visitor/deck-builder.md)
     - [CR: Profile](visitor/crprofile.md)
 
-- Clans Rules
-    - [Alpha](rules/alpha)
-    - [Bravo](rules/bravo)
-    - [Charlie](rules/charlie)
-    - [Golf](rules/golf)
-
 - Members
     - [Overview](members.md)
     - [Channels](member/channels.md)
