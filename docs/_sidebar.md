@@ -16,6 +16,7 @@
 - Members
     - [Overview](members.md)
     - [Channels](member/channels.md)
+    - [Trade](member/trade.md)
     - [100T day-to-day](member/racf.md)
     - [Feedback](member/feedback.md)
     - [Discordgram](member/discordgram.md)
