@@ -21,6 +21,7 @@ Do this in `#trade-bot-commands` so it stays a members only feature.
 | `!trade give` | Member | Filter trades by cards to give
 | `!trade get` | Member | Filter trades by cards to get
 | `!trade rarity` | Member | Filter trades by rarity
+| `!trade clan` | Member | Filter trades by clan tag
 | `!trade auto_on` | Admin | Turn on automatic trade listing
 | `!trade auto_off` | Admin | Turn off automatic trade listing
 | `!trade reset` | Admin | Reset all trades
@@ -54,6 +55,18 @@ List all known trades where can give your Ice Wizard to get something back.
 
 
 !> Adding and removing trades affects the data in the database. If you don’t know what you are doing, don’t run these commands. Adding non-existent trades create headaches for everyone else. Removing trades that actually exists takes away the opportunity to trade from others.
+
+### Filter by Clan
+
+`!trade clan 88QR9J0R`
+
+`!trade tag 88QR9J0R`
+
+`!trade c 88QR9J0R`
+
+See all trades in this clan.
+
+Use it to double check that the trades you are adding is not already in the clan.
 
 ## Adding trades
 
