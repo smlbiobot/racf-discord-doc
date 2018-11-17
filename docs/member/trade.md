@@ -8,6 +8,8 @@ Do this in `#trade-bot-commands` so it stays a members only feature.
 - Get: What you are getting / what you want
 - Clan Tag: The clan tag without the `#` symbol
 
+!> Once you have visited the clan with a trade, we recommend that you remove it from the list while you wait so that another member will not try to go there for the same listing.
+
 ## List trades
 
 | Command | Role | Description
