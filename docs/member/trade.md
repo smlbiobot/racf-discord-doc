@@ -2,30 +2,32 @@
 
 A special `!trade` command for members to add trades they have found in the wild.
 
+Do this in `#trade-bot-commands` so it stays a members only feature.
+
 - Give: What you are giving out
 - Get: What you are getting / what you want
 - Clan Tag: The clan tag without the `#` symbol
 
 ## List trades
 
-Do this in `#bot-commands` as it is very spammy.
-
-### All
-
-We have created a channel called `#trade-bot` that updates every minute so there is no need to actually run this command.
-
-`!trade list`
-
-Help for all optional arguments
-
-`!help trade list`
+| Command | Role | Description
+| --- | --- | --- |
+| `!trade list` | MOD | List all trades
+| `!trade add` | Member | Add a trade
+| `!trade remove` | Member | Remove a trade
+| `!trade import` | Member | Import a CSV file containing multiple trades
+| `!trade give` | Member | Filter trades by cards to give
+| `!trade get` | Member | Filter trades by cards to get
+| `!trade rarity` | Member | Filter trades by rarity
+| `!trade auto_on` | Admin | Turn on automatic trade listing
+| `!trade auto_off` | Admin | Turn off automatic trade listing
+| `!trade reset` | Admin | Reset all trades
 
 ### Filter by Rarity
 
-`!trade list --rarity epic`
+`!trade rarity epic`
 
-shortcut:
-`!trade list -r e`
+`!trade r e`
 
 Acceptable values:
 
@@ -36,11 +38,15 @@ Acceptable values:
 
 ### Filter by Cards
 
-`!trade list --give nw`
+`!trade give nw`
+
+`!trade gv nw`
 
 List all known trades that will accept a Night Witch for trades
 
-`!trade list --get iwiz`
+`!trade get iwiz`
+
+`!trade gt iwiz`
 
 List all known trades where can give your Ice Wizard to get something back.
 
@@ -66,3 +72,24 @@ If you have visited a listed clan and that item is no longer listed, you can rem
 `!trade rm nw iwiz C00`
 
 Avoid this step unless you are absolutely sure what you are doing. This is destructive and will remove the entries.
+
+## Adding multiple trades by CSV
+
+`!trade import` (attach CSV to the command before hitting Enter)
+
+Expected format:
+
+```csv
+give,get,clan_tag
+Wizard,Barb Hut,VQ9POJ
+Pekka,Bowler,88QR9JOR
+Witch,Cannon Cart,9GUPL8R
+Baby Dragon,Dark Prince,9GG8OYVY
+```
+
+| give | get | clan_tag
+| --- | --- | ---
+| wizard | Barb Hut | VQ9POJ
+| Pekka | Bowler | 88QR9JOR
+| Witch | Cannon Cart | 9GUPL8R
+| Baby Dragon | Dark Prince | 9GG8OYVY
