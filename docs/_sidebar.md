@@ -32,16 +32,19 @@
 
 - Leaders
     - [Overview](leaders.md)
-    - [Cheat Sheet](leader/cheat-sheet)
-    - [Recruitment](leader/recruit)
-    - [Kicking 50/50](leader/kick5050.md)
+    - Brawl Stars
+        - [Brawl Stars](leader/brawlstars)
+    - Clash Royale
+        - [Cheat Sheet](leader/cheat-sheet)
+        - [Recruitment](leader/recruit)
+        - [Kicking 50/50](leader/kick5050.md)
+        - [Audit](leader/audit.md)
+        - [Trophies](leader/trophies.md)
+        - [End of Season](leader/season.md)
+        - [Miscellaneous](leader/misc.md)
     - [Role Assignment in Welcome](leader/new-users.md)
     - [Role Management](leader/manage-roles.md)
     - [Member Management](leader/manage-members.md)
-    - [Audit](leader/audit.md)
-    - [Trophies](leader/trophies.md)
-    - [End of Season](leader/season.md)
-    - [Miscellaneous](leader/misc.md)
     - [Quotes](leader/quotes.md)
     - [Sean’s Story Time](leader/sean.md)
 
