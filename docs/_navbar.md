@@ -1,5 +1,5 @@
 - [Home](README.md)
-- 100T
+- RoyaleAPI
     - [Rules](racf/rules.md)
     - [Roles](racf/roles.md)
     - [Benefits](racf/Benefits.md)
@@ -14,5 +14,5 @@
 - Strategy
     - [Overview](strategy.md)
 - Social
-    - [Discord](https://discord.gg/100t)
-    - [Twitter](https://twitter.com/100ThievesCR)
+    - [Discord](https://discord.io/apifam)
+    - [Twitter](https://twitter.com/RoyaleAPI)

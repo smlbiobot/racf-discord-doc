@@ -8,7 +8,7 @@
 
 ## Description
 
-A question popped up in the #strategy channel on the 100T (100T Clan Family) Discord server recently: should I upgrade my pump from level 10 to 11?
+A question popped up in the #strategy channel on the RoyaleAPI (RoyaleAPI Clan Family) Discord server recently: should I upgrade my pump from level 10 to 11?
 
 To answer this question, Schmanik /u/schmanik made a spreadsheet to target interactions with pumps at 10, 11 against fireball at 10, 11 and poison 7, 8. I expanded on his spreadsheet and did calculations across all levels.
 
@@ -35,4 +35,4 @@ Whether to fireball a pump is highly situational and subjective. Unless you are 
 - **Google Spreadsheet**: https://docs.google.com/spreadsheets/d/1Bhk-PH8ZlUaXjFMZQF2ZKH58UnY8aSo3XGPNeJ4-FGU/edit?usp=sharing
 - Math by **Schmanik** /u/schmanik
 - Compiled by **SML** /u/smlbiobot
-- Members of the **100T Clan Family**
+- Members of the **RoyaleAPI Clan Family**

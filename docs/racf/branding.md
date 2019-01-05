@@ -1,11 +1,11 @@
-# 100T Branding
+# RoyaleAPI Branding
 
-Please get the [100 Thieves media assets](https://www.100thieves.com/media-assets-1/) from 100thieves.com
+Please get the [100 Thieves media assets](https://www.RoyaleAPIhieves.com/media-assets-1/) from RoyaleAPIhieves.com
 
 ## Current Promotions
 
 
-<img src="img/promo/100t-clanwars-05.png" style="width:100%; height:auto;"/>
+<img src="img/promo/RoyaleAPI-clanwars-05.png" style="width:100%; height:auto;"/>
 - Published 2018-07-14
 
 
@@ -18,16 +18,16 @@ The RACF logo is based off of the red rocket of our Clash Royale clan emblem, pl
 
 Name | Type | Value
 --- | --- | ---
-100T Red | RGB | rgb(255, 21, 59)
-100T Red | Hex | ff153b
-100T Light Red | RGB | rgb(255, 166, 179)
-100T Light Red | Hex | ffa6b3
-100T Black | RGB | rgb(0, 0, 0)
-100T Black | Hex | 000000
+RoyaleAPI Red | RGB | rgb(255, 21, 59)
+RoyaleAPI Red | Hex | ff153b
+RoyaleAPI Light Red | RGB | rgb(255, 166, 179)
+RoyaleAPI Light Red | Hex | ffa6b3
+RoyaleAPI Black | RGB | rgb(0, 0, 0)
+RoyaleAPI Black | Hex | 000000
 
 ## Logo
 
-Please do not edit, change, distort, recolor, or reconfigure the 100T logo.
+Please do not edit, change, distort, recolor, or reconfigure the RoyaleAPI logo.
 
 [Download logo pack (zip)](https://github.com/smlbiobot/racf-discord-doc/blob/master/docs/img/racf/logo-pack.zip?raw=true)
 

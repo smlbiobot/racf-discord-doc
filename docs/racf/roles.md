@@ -1,6 +1,6 @@
 # Roles
 
-This gives a summary of what is expected from members with different roles in the 100T.
+This gives a summary of what is expected from members with different roles in the RoyaleAPI.
 
 ## Members
 

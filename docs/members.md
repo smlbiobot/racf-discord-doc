@@ -8,7 +8,7 @@ As a member, you are pre-assigned the roles **Member**, **Practice**, **Tourney*
 
 Topics | Description
 --- | ---
-[Rules](racf/rules.md) | 100T family rules.
+[Rules](racf/rules.md) | RoyaleAPI family rules.
 [Roles](racf/roles.md) | Membership roles.
 [FAQ](racf/faq.md) | Frequently asked questions.
 
@@ -19,7 +19,7 @@ Please also see the [Visitors](visitors.md) section for information which applie
 Topics | Description
 --- | ---
 [Channels](member/channels.md) | Discord channels for members.
-[100T Day-to-day](member/racf.md) | 100T-specific commands.
+[RoyaleAPI Day-to-day](member/racf.md) | RoyaleAPI-specific commands.
 [Feedback](member/feedback.md) | Send feedback to leadership.
 [Discordgram](member/discordgram.md) | Clash Royale Deck Builder.
 [Clan Wars](member/clan_wars.md) | Data table + Tableau Visualization for battle readiness.

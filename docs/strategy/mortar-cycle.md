@@ -79,9 +79,9 @@ Both play mortar cycle on ladder at top 1k global.
 - **Compiled by SML**
     - http://twitter.com/smlbiobot
     - http://reddit.com/u/smlbiobot
-- **Proud members of the 100T Clan Family**  
+- **Proud members of the RoyaleAPI Clan Family**  
     - http://twitter.com/RedditAlpha
-    - http://discord.gg/100t
+    - http://discord.io/apifam
 
 ## Previous Guides
 

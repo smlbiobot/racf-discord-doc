@@ -11,7 +11,7 @@
 
 ## Are there any rules during tryouts?
 
-+ **Be punctual.** Please go to the 100T Discord server at least 15 minutes before the time of the tryout. You will be given the name of the tryout clan as well as the password to get in.
++ **Be punctual.** Please go to the RoyaleAPI Discord server at least 15 minutes before the time of the tryout. You will be given the name of the tryout clan as well as the password to get in.
 + **Do not request your match until you are told to do so.** The tryout admins will mention in clan chat when you can request your match. Please do not randomly request until it is your turn to do so.
 + **Requests from Team 1 only.** When it is your turn to play, always allow the player from team 1 to request. If you are in Team 2, please do not request your matches.
 + **Put in your opponent’s name in your match request.** Ideally, you should put the name of your opponent in your request so it is clear who you are supposed to be playing against. You will know who that is because the admin will announce that in clan chat.

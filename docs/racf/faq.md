@@ -1,8 +1,8 @@
 # Frequently Asked Questions
 
-<!-- ## What is the 100T Clan Family (100T)? -->
+<!-- ## What is the RoyaleAPI Clan Family (RoyaleAPI)? -->
 
-<!-- **100T Alpha** is the official clan of **100 Thieves**, an esports team competing in Clash Royale League. The eight clans below comprise the **100 Thieves Clan Family**, which is home to many experienced trophy-pushing and tournament competitors. The clans were created as a result of a merger and re-branding of the Reddit Alpha Clan Family, founded by Woody in January 2016.
+<!-- **RoyaleAPI Alpha** is the official clan of **100 Thieves**, an esports team competing in Clash Royale League. The eight clans below comprise the **100 Thieves Clan Family**, which is home to many experienced trophy-pushing and tournament competitors. The clans were created as a result of a merger and re-branding of the Reddit Alpha Clan Family, founded by Woody in January 2016.
 
 ## Which are your CR clans and BR bands?
 
@@ -12,16 +12,16 @@ We name our clans according to the NATO alphabet. At the moment, our clans / ban
 
 Name | Tag | Type
 --- | --- | ---
-100T Alpha  |\#9PJ82CRC|Clan Wars Main          
-100T Bravo  |\#9UQJUJC9|Clan Wars Feeder        
-100T Charlie|\#9G99JQPL|Clan Wars Feeder        
-100T Delta  |\#9G8VYGL0|Clan Wars Feeder        
-100T Echo   |\#9CJ0L9RG|Clan Wars Feeder        
-100T Foxtrot|\#9UQC2P0V|Clan Wars Feeder        
-100T Golf   |\#9UG2R2LQ|Clan Wars Feeder        
-100T Hotel  |\#9Y9VR2JR|Clan Wars Feeder
-100T YOLO   |\#9R8GUC0L|Ladder: Existing Members-Only
-100T Zen    |\#9LPVG9UC|Members-only, clan wars vacation
+RoyaleAPI Alpha  |\#9PJ82CRC|Clan Wars Main          
+RoyaleAPI Bravo  |\#9UQJUJC9|Clan Wars Feeder        
+RoyaleAPI Charlie|\#9G99JQPL|Clan Wars Feeder        
+RoyaleAPI Delta  |\#9G8VYGL0|Clan Wars Feeder        
+RoyaleAPI Echo   |\#9CJ0L9RG|Clan Wars Feeder        
+RoyaleAPI Foxtrot|\#9UQC2P0V|Clan Wars Feeder        
+RoyaleAPI Golf   |\#9UG2R2LQ|Clan Wars Feeder        
+RoyaleAPI Hotel  |\#9Y9VR2JR|Clan Wars Feeder
+RoyaleAPI YOLO   |\#9R8GUC0L|Ladder: Existing Members-Only
+RoyaleAPI Zen    |\#9LPVG9UC|Members-only, clan wars vacation
 
 ### Brawl Stars Bands
 
@@ -46,13 +46,13 @@ We try to maintain 2-4 co-leaders in each clan. When we require more co-leaders 
 - Within the family: Not OK
 - Everyone else: OK
 
-The 100T Clan Family does not have any policy against BM’ing random people you face on Ladder, challenges or tournaments.
+The RoyaleAPI Clan Family does not have any policy against BM’ing random people you face on Ladder, challenges or tournaments.
 
-We do, however, ask that our members not BM each other in the family unless it’s agreed upon beforehand. We understand that there is a mute button but feel that there should be a basic level of respect among fellow 100T members. We do encourage anyone who is offended by emotes to make use of the in-game mute button.
+We do, however, ask that our members not BM each other in the family unless it’s agreed upon beforehand. We understand that there is a mute button but feel that there should be a basic level of respect among fellow RoyaleAPI members. We do encourage anyone who is offended by emotes to make use of the in-game mute button.
 
-BM’ing family members — in-game without prior agreements, clan chat (being a dick to others), Discord — is a kickable offense. If any 100T member is found to be consistently BM'ing other 100T members then they may be subject to punishment of some sort.
+BM’ing family members — in-game without prior agreements, clan chat (being a dick to others), Discord — is a kickable offense. If any RoyaleAPI member is found to be consistently BM'ing other RoyaleAPI members then they may be subject to punishment of some sort.
 
 
 ## How can I be part of the competitive team?
 
-We usually make an announcement on Discord whenever we are assembling teams to represent 100T in upcoming tournaments. If there is a try-out,  you should obviously play in one so the team captains can evaluate your game plays. In others, we allow team captains to select their players. If you are new to the family and feel that you are not known among the captains, you can demonstrate your skills by finishing in top spots in 10k tournaments and/or get into the championship rounds for the 100T Tourney, which is held bi-monthly.
+We usually make an announcement on Discord whenever we are assembling teams to represent RoyaleAPI in upcoming tournaments. If there is a try-out,  you should obviously play in one so the team captains can evaluate your game plays. In others, we allow team captains to select their players. If you are new to the family and feel that you are not known among the captains, you can demonstrate your skills by finishing in top spots in 10k tournaments and/or get into the championship rounds for the RoyaleAPI Tourney, which is held bi-monthly.

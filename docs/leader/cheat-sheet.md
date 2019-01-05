@@ -44,7 +44,7 @@ More info: [Member Management](leader/manage-members)
 
 | Command | Description
 | --- | ---
-| `!rs name` e.g. `!rs sml` | Search to show if a member with that name is in the 100T clan family. (This is a text search so don’t add `@` before the name)
+| `!rs name` e.g. `!rs sml` | Search to show if a member with that name is in the RoyaleAPI clan family. (This is a text search so don’t add `@` before the name)
 | `!v @person` | If they are a visitor or don’t reply. However if they are a visitor and provide a player tag, you should associate player tags with them with `!r v`.
 
 ## Audit

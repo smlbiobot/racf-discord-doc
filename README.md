@@ -1,3 +1,3 @@
-# 100T Discord Documentation
+# RoyaleAPI Discord Documentation
 
 http://docs.redditalpha.com

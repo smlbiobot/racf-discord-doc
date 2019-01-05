@@ -41,8 +41,8 @@ This deck struggles against control decks, bridge spam decks, and other 3M decks
 #### Learn more
 
 The data for this challenge was pulled from RoyaleAPI.com which also lists a few of our members as top players of this deck based on win %:
-- **Forlaxen** (100T Alpha -- 56% win rate in 97 ladder matches)
-- **たけしゃん** (100T Alpha -- 56% win rate in 87 ladder matches)
+- **Forlaxen** (RoyaleAPI Alpha -- 56% win rate in 97 ladder matches)
+- **たけしゃん** (RoyaleAPI Alpha -- 56% win rate in 87 ladder matches)
 
 ### Links
 

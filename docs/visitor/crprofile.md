@@ -12,7 +12,7 @@ trophy2arena | Convert trophies to arenas.
 
 ## Set player tag
 
-To associate a player tag with a Discord user on the 100T Discord server, use:
+To associate a player tag with a Discord user on the RoyaleAPI Discord server, use:
 
 `!crsettag [tag]`
 

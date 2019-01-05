@@ -29,7 +29,7 @@ Typical workflow: you find a list of users without clan tags and output their Di
 …followed by copying the list of mentions and used as parameter to send DMs:
 
 `!dmusers "Hi there you have no clan tag assigned. Please use the bot command !changeclan \
-on the 100T server to update your roles. You will be converted into visitors if you don’t \
+on the RoyaleAPI server to update your roles. You will be converted into visitors if you don’t \
 do so in 24 hrs." <@70901400430718976> <@!237016475406172161> <@223568673539883020> \
 <@258257768182448129> <@!277614984731557889> <@304806109976330250> <@98452778896076800> \
 <@262287777930936331> <@198274673996201984>`

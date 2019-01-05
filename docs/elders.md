@@ -4,11 +4,11 @@ If you are mature and active in the clan and Discord, we will promote you as an 
 2. Ask how you can help - our leadership team is always looking for help whether it's sharing decks, doing a write-up on a deck or some analysis to help our members, or maybe it's just offering to tag members on discord that need to do their attacks for war.  Any of those things help us run a smoother, more successful warring family.
 
 ## Responsibilities
-You have the following responsibilities as an elder in the 100T:
+You have the following responsibilities as an elder in the RoyaleAPI:
 
 1. Accept new members
     - Check to make sure they meet minimum requirements (see below)
-    - Direct the new member to the discord and explain that it's important for war: http://discord.gg/100t
+    - Direct the new member to the discord and explain that it's important for war: http://discord.io/apifam
     - Let them know that we are war-focused and review every new member to meet criteria to make us successful
     - Tag a co-leader on discord to let them know a new member has joined
 2. Set the example for other members - practice, do your war battles, share decks, throw out some friendly BM!

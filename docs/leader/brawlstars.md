@@ -10,7 +10,7 @@ All the Brawl Stars commands are grouped under the base command `!brawlstars` wi
 
 ## Verify
 
-After members have joined our clubs, you should direct them to join our Discord https://discord.gg/100t and when they show up in `#welcome`, run this command and assign roles for them.
+After members have joined our clubs, you should direct them to join our Discord https://discord.gg/RoyaleAPI and when they show up in `#welcome`, run this command and assign roles for them.
 
 After they told you that they are playing Brawl Stars, you will run:
 

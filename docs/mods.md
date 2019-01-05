@@ -28,4 +28,4 @@ whitelist | Users who will be able to use the bot
 
 ## Official Red Docs
 
-There are not that many custom written mod-only commands on the 100T server. As such, you can additionally consult the [Red Docs: Commands](https://twentysix26.github.io/Red-Docs/red_commands/) for moderator-specific documenation.
+There are not that many custom written mod-only commands on the RoyaleAPI server. As such, you can additionally consult the [Red Docs: Commands](https://twentysix26.github.io/Red-Docs/red_commands/) for moderator-specific documenation.

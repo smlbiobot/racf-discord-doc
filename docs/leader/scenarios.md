@@ -6,7 +6,7 @@ This document illustrates a few of the most frequently-used scenarios to help yo
 
 A new user named MortarMauler signed onto Discord. As leader, you need to help them out after they have mentioned who they are.
 
-### In the 100T
+### In the RoyaleAPI
 
 1. Leader: Which clan are you in?
 2. MortarMauler: I am in Alpha
@@ -52,7 +52,7 @@ There is not enough elders in the clan to accept members, so you have decided to
 
 `!mm Alpha -x Leader Co-Leader high-elder elder`
 
-This will list all members who are in Alpha but not a Leader / Co-Leader / High Elder / Elder. By default, the list will be sorted by time since joining the server. You should note that the time does not reflect how long they have been with 100T, and that they could have joined our Discord server 5 months ago as a visitor and only joined as member a couple of days earlier.
+This will list all members who are in Alpha but not a Leader / Co-Leader / High Elder / Elder. By default, the list will be sorted by time since joining the server. You should note that the time does not reflect how long they have been with RoyaleAPI, and that they could have joined our Discord server 5 months ago as a visitor and only joined as member a couple of days earlier.
 
 ### Promoting
 

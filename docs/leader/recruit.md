@@ -36,15 +36,15 @@ In Legendary League, you can also see +1 levels (Legendary League Readiness or 1
 
 ### Public family access
 
-* https://royaleapi.com/clan/family/100t/admin
+* https://royaleapi.com/clan/family/RoyaleAPI/admin
 
 You can get to Clan War Analytics (member performance in the last 10 wars), and many other tools for every single clan in the family.
 
 ### Private family portal
 
-* https://royaleapi.com/fadmin/100t
+* https://royaleapi.com/fadmin/RoyaleAPI
 
-This is a portal for managing all members regarding clan war performance and in-clan family recruitment. You will need to login with your Discord login. The site will verify that you are a leader in 100T and give you relevant access.
+This is a portal for managing all members regarding clan war performance and in-clan family recruitment. You will need to login with your Discord login. The site will verify that you are a leader in RoyaleAPI and give you relevant access.
 
 This portal offers most of the features you see on the public access pages, but also include some premium features that are unavailable in the public access pages. You can also easily get to these pages on your `Me` page after logging in: https://royaleapi.com/me
 
