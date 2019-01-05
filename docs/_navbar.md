@@ -4,7 +4,6 @@
     - [Roles](racf/roles.md)
     - [Benefits](racf/Benefits.md)
     - [FAQ](racf/faq.md)
-    - [Branding](racf/branding.md)
 - Roles
     - [Visitors](visitors.md)
     - [Members](members.md)
