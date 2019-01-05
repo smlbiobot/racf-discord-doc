@@ -1,6 +1,6 @@
-# Welcome to the 100T Discord server!
+# Welcome to the RoyaleAPI Clan Family Discord server!
 
-<img src="img/100t/100t-logo-500.png" width="200" height="200">
+<img src="http://royaleapi.com/static/img/branding/cr-api-logo.png" width="200" height="200">
 
 This guide explains how our server is set up and provide information on how to use many of our bot commands.
 
@@ -10,7 +10,7 @@ If you are completely new to Discord, check out:
 
 Please use this invite link to invite other people to the server:
 
-- [http://discord.gg/100t](http://discord.gg/100t)
+- [http://discord.io/apifam](http://discord.io/apifam)
 
 ## Discord Roles
 

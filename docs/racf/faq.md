@@ -1,8 +1,8 @@
 # Frequently Asked Questions
 
-## What is the 100T Clan Family (100T)?
+<!-- ## What is the 100T Clan Family (100T)? -->
 
-**100T Alpha** is the official clan of **100 Thieves**, an esports team competing in Clash Royale League. The eight clans below comprise the **100 Thieves Clan Family**, which is home to many experienced trophy-pushing and tournament competitors. The clans were created as a result of a merger and re-branding of the Reddit Alpha Clan Family, founded by Woody in January 2016.
+<!-- **100T Alpha** is the official clan of **100 Thieves**, an esports team competing in Clash Royale League. The eight clans below comprise the **100 Thieves Clan Family**, which is home to many experienced trophy-pushing and tournament competitors. The clans were created as a result of a merger and re-branding of the Reddit Alpha Clan Family, founded by Woody in January 2016.
 
 ## Which are your CR clans and BR bands?
 
@@ -29,9 +29,9 @@ Name | Tag | Type
 --- | --- | ---
 Reddit Alpha  |\#LQQ   |Main           
 
-## How do I join your clans/bands?
+## How do I join your clans/bands? -->
 
-Please apply on our Discord https://discord.gg/100t
+Please apply on our Discord https://discord.io/apifam
 
 ## How do you become an elder?
 
@@ -56,21 +56,3 @@ BM’ing family members — in-game without prior agreements, clan chat (being a
 ## How can I be part of the competitive team?
 
 We usually make an announcement on Discord whenever we are assembling teams to represent 100T in upcoming tournaments. If there is a try-out,  you should obviously play in one so the team captains can evaluate your game plays. In others, we allow team captains to select their players. If you are new to the family and feel that you are not known among the captains, you can demonstrate your skills by finishing in top spots in 10k tournaments and/or get into the championship rounds for the 100T Tourney, which is held bi-monthly.
-
-## Brawl Stars
-
-### Why are the leaders at the bottom of the roster?
-
-As a well-established clan family in Clash Royale, the 100T Clan Family (100T) is primarily interested in building a top global clan (aka band) in Brawl Stars. To ensure the long-term success of such clan, we feel that strong leadership is required, and we have initiated our effort by placing our best players in CR to form the leadership for Reddit Alpha.
-
-We recognize that CR skills do not necessarily translate to BS skills, and that some of you are concerned that our leadership is currently at the bottom of the roster. In order to ensure the future success of the clan family though, we do feel that having trustworthy co-leaders is a must.
-
-The game is simply too new right now to consider promotions, but it is something that we will definitely be doing in the future. Thank you very much for your patience.
-
-### Can I join Reddit Delta (BS) if I get kicked from Charlie?
-
-You must be a member in our Clash Royale clans to join Reddit Delta in Brawl Stars. No exceptions.
-
-### Where can I download Brawl Stars on Android?
-
-Brawl Stars has not been released on Android.
