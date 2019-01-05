@@ -9,7 +9,7 @@ As a visitor, you agree to follow the following rules:
 
 Failure to follow these rules will get you kicked from the server. Repeat offenders will be banned.
 
-If you would like to invite your friends to join this server, you may use this Discord invite: http://discord.io/apifam
+If you would like to invite your friends to join this server, you may use this Discord invite: https://discord.royaleapi.com
 
 Topics | Description
 --- | ---

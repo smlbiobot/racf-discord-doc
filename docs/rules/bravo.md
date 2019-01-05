@@ -5,7 +5,7 @@ Please read the rules carefully and react to the pinned message in `#bravo` chan
 ## Basics
 
 1. People who do not meet the requirements of Bravo can still request to join. Accept them and kick them right after by using a custom kick message, e.g.:
-    - Please join http://discord.io/apifam to apply — thanks for your interest!
+    - Please join https://discord.royaleapi.com to apply — thanks for your interest!
 2. When you play with someone from your own clan, please don’t BM each other unless you guys have a prior agreement.
 
 ## Clan Wars

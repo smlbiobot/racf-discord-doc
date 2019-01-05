@@ -81,7 +81,7 @@ Both play mortar cycle on ladder at top 1k global.
     - http://reddit.com/u/smlbiobot
 - **Proud members of the RoyaleAPI Clan Family**  
     - http://twitter.com/RedditAlpha
-    - http://discord.io/apifam
+    - https://discord.royaleapi.com
 
 ## Previous Guides
 

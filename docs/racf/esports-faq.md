@@ -22,7 +22,7 @@ People who have been selected to participate in the next tryout will be notified
 
 ## What should I do if I am no longer interested in Alpha eSports?
 
-You should remove the Recruit role on the RoyaleAPI Discord server http://discord.io/apifam by typing `!togglerecruit` in the *bot-commands* channel.
+You should remove the Recruit role on the RoyaleAPI Discord server https://discord.royaleapi.com by typing `!togglerecruit` in the *bot-commands* channel.
 
 ## When will the next tryout be held?
 

@@ -10,7 +10,7 @@ If you are completely new to Discord, check out:
 
 Please use this invite link to invite other people to the server:
 
-- [http://discord.io/apifam](http://discord.io/apifam)
+- [https://discord.royaleapi.com](https://discord.royaleapi.com)
 
 ## Discord Roles
 

@@ -14,5 +14,5 @@
 - Strategy
     - [Overview](strategy.md)
 - Social
-    - [Discord](https://discord.io/apifam)
+    - [Discord](https://discord.royaleapi.com)
     - [Twitter](https://twitter.com/RoyaleAPI)

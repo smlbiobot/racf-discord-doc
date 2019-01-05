@@ -5,7 +5,7 @@
 It can be overwhelming to join a new server. This will guide you through how our server is set up and explain some useful commands you can run.
 
 [Get started](members.md)
-[http://discord.io/apifam](http://discord.io/apifam)
+[https://discord.royaleapi.com](https://discord.royaleapi.com)
 
 If you are completely new to Discord, check out:
 

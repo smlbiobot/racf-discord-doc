@@ -10,7 +10,7 @@ Tryout Admins:
 
 Recruits:
 - Fill out the application form.
-- Join our Discord server: http://discord.io/apifam
+- Join our Discord server: https://discord.royaleapi.com
 - Change their Discord username / nickname to be the same as their IGN.
 
 Admins:

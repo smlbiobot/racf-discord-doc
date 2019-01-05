@@ -8,7 +8,7 @@ You have the following responsibilities as an elder in the RoyaleAPI:
 
 1. Accept new members
     - Check to make sure they meet minimum requirements (see below)
-    - Direct the new member to the discord and explain that it's important for war: http://discord.io/apifam
+    - Direct the new member to the discord and explain that it's important for war: https://discord.royaleapi.com
     - Let them know that we are war-focused and review every new member to meet criteria to make us successful
     - Tag a co-leader on discord to let them know a new member has joined
 2. Set the example for other members - practice, do your war battles, share decks, throw out some friendly BM!

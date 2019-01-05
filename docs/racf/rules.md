@@ -6,7 +6,7 @@
 2. **Play fair.** Play your best in every game, especially against fellow clanmates! Do not post instructions for or use any unauthorized third-party software while playing the game.
 3. **Always be pushing.** We value motivated, active players that seek to improve the overall standing of our clan family. If you are \#50 when the clan fills you may be kicked and asked to join a lower clan in our feeder system.
 4. **Advance through the feeder system.** Once you are consistently ranked significantly above the trophy minimum of the next higher clan in the feeder system, you are required to move up to the next clan. This does not apply to clan Leaders and Co-Leaders or clans with fewer than 45 members.
-5. **Follow Leader instructions.** Leaders and Co-Leaders support and promote active, loyal members to help run the clan. Help them make our clan family the best it can be by following instructions and discussing any issues here or on [our Discord server](http://discord.io/apifam).
+5. **Follow Leader instructions.** Leaders and Co-Leaders support and promote active, loyal members to help run the clan. Help them make our clan family the best it can be by following instructions and discussing any issues here or on [our Discord server](https://discord.royaleapi.com).
 
 ## Clan War Rules
 

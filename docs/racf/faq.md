@@ -31,7 +31,7 @@ Reddit Alpha  |\#LQQ   |Main
 
 ## How do I join your clans/bands? -->
 
-Please apply on our Discord https://discord.io/apifam
+Please apply on our Discord https://discord.royaleapi.com
 
 ## How do you become an elder?
 

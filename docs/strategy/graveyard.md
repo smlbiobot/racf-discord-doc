@@ -10,7 +10,7 @@
 
 **Graveyard** has been released for a while now but do you know the most optimal placement? This time I asked **Grimear** [/u/Grimear](http://reddit.com/u/Grimear) to help me write this guide. Grimear has been playing GY for both ladder and challenges. Last season, he finished with 5,608 trophies (PB) and a global 4,237th rank with a level 3 Graveyard. He is the Leader of Reddit Foxtrot, one of the feeder clans in the RoyaleAPI Clan Family.
 
-Please tag [/u/Grimear](http://reddit.com/u/Grimear) if you have questions about Graveyard. Additionally, you can join the RoyaleAPI Discord server at http://discord.io/apifam if you would like to speak to him directly.
+Please tag [/u/Grimear](http://reddit.com/u/Grimear) if you have questions about Graveyard. Additionally, you can join the RoyaleAPI Discord server at https://discord.royaleapi.com if you would like to speak to him directly.
 
 ## Strategy
 
