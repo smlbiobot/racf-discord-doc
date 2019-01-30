@@ -22,4 +22,4 @@
 
 ## Note for Leaders
 
-Your clan emblem should be set to the Red Rocket and clan location should be set to Niue. The clan description should include a note indicating your current trophy minimum and the next clan above and below you in our feeder system (with clan tags). Your trophy requirement should be set so that it is approximately equal to the ranking of the 25th member in your clan. Please reach out to players via in-game chat, Discord, or clan mail to explain rules 3 & 4 when they will be kicked for being outside of your clan's trophy range.
+The clan description should include a note indicating your current trophy minimum or PB trophy requirement, as well as a link to our Discord server. If you have space, note the next clan above and below you in our feeder system (with clan tags). Your trophy requirement should be set so that it is approximately equal to the ranking of the 25th member in your clan. Please reach out to players via in-game chat, Discord, or clan mail to explain rules 3 & 4 when they will be kicked for being outside of your clan's trophy range.
