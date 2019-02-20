@@ -2,6 +2,8 @@
 
 This is a tournament-standard custom Ladder which calculates your skill rating by playing Clash Royale games. For testing, we will use both Trueskill and traditional elo.
 
+Please join this Discord server to participate in user-testing: http://discord.gg/BFGzZpn
+
 ```
 !!crladder verify C0G20PR2 anb8czxg
 !!crladder register a1
