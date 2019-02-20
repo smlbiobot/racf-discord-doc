@@ -6,6 +6,9 @@
     - [Benefits](racf/benefits.md)
     - [FAQ](racf/faq.md)
 
+- Beta Testing
+    - [Elo Ladder](beta/crladder)
+
 - Visitors
     - [Overview](visitors.md)
     - [Basic Commands](visitor/red-commands.md)
