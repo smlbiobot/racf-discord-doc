@@ -4,11 +4,14 @@ This is a tournament-standard custom Ladder which calculates your skill rating b
 
 Please join this Discord server to participate in user-testing: http://discord.gg/BFGzZpn
 
-```
-!!rr verify C0G20PR2 anb8czxg
-!!rr register a1
-!!rr play @alpe123#2295
-```
+| Command | Description |
+| --- | -- |
+| `!!rr verify [player_tag] [api_token]` | Verify account |
+| `!!rr register [series_name]` | Register to play in series |
+| `!!rr play [another_user]` | Play against specific user |
+| `!!rr seek` | Seek a game where anyone can accept |
+| `!!rr leaderboard` | Display leaderboard |
+| `!!rr playerinfo` | Player information for yourself or another player |
 
 ## Register and Play
 
@@ -60,6 +63,26 @@ Open seek: allows you to post a match and allow anyone else to accept
 - If you wish to cancel your seek, you can react with 🚫
 
 <img src="/img/rr/rr-seek.png" style="width:100%; height: auto">
+
+### Leaderboard
+
+```
+!!rr Leaderboard
+!!rr lb
+```
+
+<img src="/img/rr/rr-leaderboard.png" style="width:100%; height: auto">
+
+### Player Info
+
+```
+!!rr playerinfo
+!!rr pi
+!!rr playerinfo @alpe123#2295
+!!rr pi @alpe123#2295
+```
+
+<img src="/img/rr/rr-playerinfo.png" style="width:100%; height: auto">
 
 ## How this works
 
