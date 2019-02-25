@@ -81,3 +81,5 @@ RR = μ - 3σ
 - Winning against higher players and losing to lower players gives a less precise rating, it increases the uncertainty.
 
 **When the uncertainty (σ) decreases enough, your rating is considered to be precise, and RR ≈ μ.**
+
+<img src="/img/rr/rr-curve@4x.png" style="width:100%; height: auto">
