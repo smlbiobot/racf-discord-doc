@@ -7,7 +7,7 @@
     - [FAQ](racf/faq.md)
 
 - Beta Testing
-    - [Elo Ladder](beta/crladder)
+    - [Royale Rating Ladder](beta/royale-rating) 
 
 - Visitors
     - [Overview](visitors.md)
