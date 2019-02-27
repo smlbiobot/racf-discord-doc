@@ -1,6 +1,6 @@
 # Royale Rating Ladder
 
-This is a tournament-standard custom Ladder which calculates your skill rating by playing Clash Royale games. The rating system is similar to Elo is much more advanced and can hone into your rating more accurately and quickly.
+This is a tournament-standard custom Ladder which calculates your skill rating by playing Clash Royale games. The rating system is similar to Elo but is much more advanced and can hone into your rating more accurately and quickly.
 
 Please join this Discord server to participate in user-testing: http://discord.gg/BFGzZpn
 
