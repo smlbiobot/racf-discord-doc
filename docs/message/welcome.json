@@ -1,0 +1,12 @@
+{
+	"embeds": [
+		{
+			"image": {
+				"url": "https://github.com/RoyaleAPI/cr-api-assets/blob/master/logo/royaleapi-bg-dark.png?raw=true"
+			}
+		},
+		{
+			"title": "Welcome"
+		}
+	]
+}
