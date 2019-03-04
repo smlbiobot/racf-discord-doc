@@ -32,10 +32,10 @@ Watch this video to see how you can find both:
 
 ### 2. Register
 
-After you have verified your account ownership, you can register to a series to play. Current active series is `a1`
+After you have verified your account ownership, you can register to a series to play. Current active series is `a2`
 
 ```
-!!crladder register a1
+!!crladder register a2
 ```
 
 ### 3. Play
